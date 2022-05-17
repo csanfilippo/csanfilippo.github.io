@@ -27,7 +27,8 @@ url: "https://fripp85.github.io" # the base hostname & protocol for your site, e
 markdown: kramdown  #kramdown #
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 minima:
   skin: dark
   social_links:
