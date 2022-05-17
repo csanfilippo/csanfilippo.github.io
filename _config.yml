@@ -43,7 +43,10 @@ collections:
   apps:
     output: true
     permalink: /:collection/:name
-  policies:
+  privacy:
+    output: true
+    permalink: /:collection/:name  
+  terms:
     output: true
     permalink: /:collection/:name  
 

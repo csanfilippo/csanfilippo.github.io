@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TurinPark
-permalink: /policies/turinpark
+permalink: /privacy/turinpark
 ---
 
 **Privacy Policy**
