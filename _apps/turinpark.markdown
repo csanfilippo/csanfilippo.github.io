@@ -13,6 +13,9 @@ TurinPark is available for both iPhone and iPad
 
 {% include appstore_badge.html url="https://apps.apple.com/it/app/turinpark/id500484546" %}
 
+[Privacy policy](/policies/turinpark)
+
 # Screenshots
 
 ![TurinParkScreen](/assets/turinpark_screen.png){: width="250" }
+
