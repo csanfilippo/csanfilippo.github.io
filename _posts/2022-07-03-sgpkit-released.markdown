@@ -2,7 +2,7 @@
 layout: post
 title:  "swift-sgp 1.0.0 is here!"
 date:   2022-07-03 23:30:00 +0200
-categories: libs update
+categories: libs
 ---
 
 Today I released the first open source version of [swift-sgp][swift-sgp], a very simple Swift Package that calculates the position of a satellite given a [two-line elements set (TLE)][tle-wiki].
