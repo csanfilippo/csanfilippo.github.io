@@ -43,6 +43,9 @@ collections:
   apps:
     output: true
     permalink: /:collection/:name
+  libs:
+    output: true
+    permalink: /:collection/:name
   privacy:
     output: true
     permalink: /:collection/:name  
