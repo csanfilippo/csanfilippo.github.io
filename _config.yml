@@ -33,7 +33,7 @@ minima:
   skin: dark
   social_links:
     twitter: fripp85
-    github: fripp85
+    github: csanfilippo
     linkedin: calogero-sanfilippo
 plugins:
   - jekyll-feed
