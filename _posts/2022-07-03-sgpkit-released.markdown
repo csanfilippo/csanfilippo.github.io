@@ -11,7 +11,7 @@ The library wouldn't have been possible without the fundamental help of [sgp4][s
 
 As you may imagine, swift-spg is the core of [ISSSeeker]({{ site.url }}/apps/issseeker).
 
-[swift-sgp]: https://github.com/csanfilippo/swift-sgp
+[swift-sgp]: https://github.com/csanfilippo/swift-sgp4
 [tle-wiki]: https://en.wikipedia.org/wiki/Two-line_element_set
 [sgp4]: https://www.danrw.com/sgp4/
 [dnwrnr]: https://github.com/dnwrnr
