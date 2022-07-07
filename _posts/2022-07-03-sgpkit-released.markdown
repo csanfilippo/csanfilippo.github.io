@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "swift-sgp 1.0.0 is here!"
+title:  "swift-sgp4 1.0.0 is here!"
 date:   2022-07-03 23:30:00 +0200
 categories: libs
 ---
