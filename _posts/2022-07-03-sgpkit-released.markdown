@@ -9,7 +9,7 @@ Today I released the first open source version of [swift-sgp4][swift-sgp], a ver
 
 The library wouldn't have been possible without the fundamental help of [sgp4][sgp4], a satellite prediction C++ library developed by [Daniel Warner][dnwrnr].
 
-As you may imagine, swift-spg is the core of [ISSSeeker]({{ site.url }}/apps/issseeker).
+As you may imagine, swift-sgp4 is the core of [ISSSeeker]({{ site.url }}/apps/issseeker).
 
 [swift-sgp]: https://github.com/csanfilippo/swift-sgp4
 [tle-wiki]: https://en.wikipedia.org/wiki/Two-line_element_set
