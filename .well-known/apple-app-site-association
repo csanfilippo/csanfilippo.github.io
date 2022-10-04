@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "ABCDE12345.com.example.app", "ABCDE12345.com.example.app2" ],
+             "components": [
+               {
+                  "/": "/buy/*",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               }
+             ]
+           }
+       ]
+   }
+}
