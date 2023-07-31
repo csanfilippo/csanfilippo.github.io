@@ -22,9 +22,9 @@ theme = "hugo-coder"
   weight = 1
   url = "about/"
 [[menu.main]]
-  name = "Apps"
+  name = "Mobile Apps"
   weight = 2
-  url  = "my-apps/"
+  url  = "app-index/"
 [[menu.main]]
   name = "Blog"
   weight = 3
@@ -33,7 +33,7 @@ theme = "hugo-coder"
 [[menu.main]]
   name = "Libs"
   weight = 4
-  url  = "libs/"
+  url  = "libs-index/"
 
 [[params.social]]
   name = "Github"
