@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-![TurinParkIcon](/assets/turinpark_icon.png){: width="250" }
+![TurinParkIcon](/images/turinpark_icon.png)
 
 TurinPark is an application that allows you to know, in real time, the location of the paid parking lots in the city of Turin. 
 
