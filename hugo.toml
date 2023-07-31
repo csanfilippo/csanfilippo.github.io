@@ -2,6 +2,7 @@ baseURL = 'https://csanfilippo.github.io/'
 languageCode = 'en-us'
 title = 'Calogero Sanfilippo'
 theme = "hugo-coder"
+enableRobotsTXT = true
 
 [params]
   author = "Calogero Sanfilippo"
