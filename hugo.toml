@@ -24,7 +24,7 @@ theme = "hugo-coder"
 [[menu.main]]
   name = "Apps"
   weight = 2
-  url  = "apps/"
+  url  = "my-apps/"
 [[menu.main]]
   name = "Blog"
   weight = 3
