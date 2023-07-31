@@ -1,0 +1,19 @@
++++ 
+draft = false
+date = 2022-06-26T23:52:10+02:00
+title = "TurinPark 2.3.1 released"
+description = ""
+authors = ["Calogero Sanfilippo"]
+tags = []
+categories = []
+externalLink = ""
+series = []
+slug = "turinpark-231-released"
++++
+
+Today [TurinPark](/apps/turinpark) 2.3.1 has been released on AppStore.
+
+This new version includes small bugfixes.
+
+{{< appStoreBadge "turinpark/id500484546" >}}
+

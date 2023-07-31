@@ -1,0 +1,21 @@
++++ 
+draft = false
+date = 2022-06-25T23:52:10+02:00
+title = "ISSSeeker 1.5.0 released"
+description = ""
+authors = ["Calogero Sanfilippo"]
+tags = []
+categories = []
+externalLink = ""
+series = []
+slug = "issseeker-150-released"
++++
+
+Today [ISSSeeker](/apps/issseeker) 1.5.0 has been released on AppStore.
+
+The app has been completely re-engineered using SwiftUI.
+
+Moreover, this version drops the support to iOS 13.
+
+{{< appStoreBadge "issseeker/id1438288330" >}}
+

@@ -1,0 +1,54 @@
+baseURL = 'https://csanfilippo.github.io/'
+languageCode = 'en-us'
+title = 'Calogero Sanfilippo'
+theme = "hugo-coder"
+
+[params]
+  author = "Calogero Sanfilippo"
+  info = "Senior Software Engineer at Gucci"
+  description = "Calogero Sanfilippo's personal website"
+  keywords = "blog,developer,personal"
+  colorScheme = "auto"
+  since = "2020"
+  avatarURL = "images/me.jpeg"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Apps"
+  weight = 2
+  url  = "apps/"
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "posts/"
+
+[[menu.main]]
+  name = "Libs"
+  weight = 4
+  url  = "libs/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/csanfilippo/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/calo85/"
+
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/calogero-sanfilippo"

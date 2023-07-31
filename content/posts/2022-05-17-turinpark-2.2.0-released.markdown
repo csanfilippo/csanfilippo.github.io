@@ -1,0 +1,19 @@
++++ 
+draft = false
+date = 2022-05-17T23:52:10+02:00
+title = "TurinPark 2.2.0 released"
+description = ""
+authors = ["Calogero Sanfilippo"]
+tags = []
+categories = []
+externalLink = ""
+series = []
+slug = "turinpark-220-released"
++++
+
+Today [TurinPark](/apps/turinpark) 2.2.0 has been released on AppStore.
+
+In this new release the parking detail page has been enriched with the address of the parking.
+
+{{< appStoreBadge "turinpark/id500484546" >}}
+

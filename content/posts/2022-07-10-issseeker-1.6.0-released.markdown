@@ -1,0 +1,18 @@
++++ 
+draft = false
+date = 2022-07-10T23:52:10+02:00
+title = "ISSSeeker 1.6.0 released"
+description = ""
+authors = ["Calogero Sanfilippo"]
+tags = []
+categories = []
+externalLink = ""
+series = []
+slug = "issseeker-160-released"
++++
+
+Today [ISSSeeker](/apps/issseeker) 1.6.0 has been released on AppStore.
+
+This new version includes small bugfixes.
+
+{{< appStoreBadge "issseeker/id1438288330" >}}
