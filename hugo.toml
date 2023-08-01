@@ -46,7 +46,7 @@ enableRobotsTXT = true
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 2
-  url = "https://twitter.com/calo85/"
+  url = "https://twitter.com/fripp85/"
 
 [[params.social]]
   name = "Linkedin"
