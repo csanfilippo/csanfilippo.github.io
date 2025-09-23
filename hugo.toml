@@ -1,59 +1,48 @@
 baseURL = 'https://csanfilippo.github.io/'
 languageCode = 'en-us'
 title = 'Calogero Sanfilippo'
-theme = "hugo-coder"
+theme = 'hugo-coder'
 enableRobotsTXT = true
 
 [params]
-  author = "Calogero Sanfilippo"
-  info = "Senior Software Engineer at Gucci"
-  description = "Calogero Sanfilippo's personal website"
-  keywords = "blog,developer,personal"
-  colorScheme = "auto"
-  since = "2020"
-  avatarURL = "images/me.jpeg"
+author = "Calogero Sanfilippo"
+info = "Senior Software Engineer at Gucci"
+description = "Calogero Sanfilippo's personal website"
+keywords = "blog,developer,personal"
+colorScheme = "auto"
+since = "2020"
+avatarURL = "images/me.jpeg"
 
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-
-# Menu links
-[[menu.main]]
-  name = "About"
-  weight = 1
-  url = "about/"
-[[menu.main]]
-  name = "Mobile Apps"
-  weight = 2
-  url  = "app-index/"
-[[menu.main]]
-  name = "Blog"
-  weight = 3
-  url  = "posts/"
+[caches.images]
+dir = ':cacheDir/images'
 
 [[menu.main]]
-  name = "Libs"
-  weight = 4
-  url  = "libs-index/"
+name = "About"
+weight = 1
+url = "about/"
+[[menu.main]]
+name = "Mobile Apps"
+weight = 2
+url  = "app-index/"
+[[menu.main]]
+name = "Blog"
+weight = 3
+url  = "posts/"
+
+[[menu.main]]
+name = "Libs"
+weight = 4
+url  = "libs-index/"
 
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/csanfilippo/"
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/csanfilippo/"
 
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 2
-  url = "https://twitter.com/fripp85/"
-
-[[params.social]]
-  name = "Linkedin"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 2
-  url = "https://www.linkedin.com/in/calogero-sanfilippo"
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/calogero-sanfilippo"

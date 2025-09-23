@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libs on Calogero Sanfilippo</title>
+    <link>http://localhost:1313/libs/</link>
+    <description>Recent content in Libs on Calogero Sanfilippo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 23:52:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/libs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SGPKit</title>
+      <link>http://localhost:1313/libs/sgpkit/</link>
+      <pubDate>Thu, 05 May 2022 23:52:10 +0200</pubDate>
+      <guid>http://localhost:1313/libs/sgpkit/</guid>
+      <description>&lt;p&gt;SGPKit is a Swift package to compute satellite positions from &lt;a href=&#34;https://en.wikipedia.org/wiki/Two-line_element_set&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two-line elements (TLE)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Check it out on &lt;a href=&#34;https://github.com/csanfilippo/swift-sgp4&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

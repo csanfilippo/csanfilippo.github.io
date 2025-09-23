@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libs on Calogero Sanfilippo</title>
+    <link>http://localhost:1313/tags/libs/</link>
+    <description>Recent content in Libs on Calogero Sanfilippo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 23:52:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/libs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>swift-sgp4 1.0.0 is here!</title>
+      <link>http://localhost:1313/posts/sgpkit-released/</link>
+      <pubDate>Sun, 03 Jul 2022 23:52:10 +0200</pubDate>
+      <guid>http://localhost:1313/posts/sgpkit-released/</guid>
+      <description>&lt;p&gt;Today I released the first open source version of &lt;a href=&#34;https://github.com/csanfilippo/swift-sgp4&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;swift-sgp4&lt;/a&gt;, a very simple Swift Package that calculates the position of a satellite given a &lt;a href=&#34;https://en.wikipedia.org/wiki/Two-line_element_set&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two-line elements set (TLE)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The library wouldn&amp;rsquo;t have been possible without the fundamental help of &lt;a href=&#34;https://www.danrw.com/sgp4/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sgp4&lt;/a&gt;, a satellite prediction C++ library developed by &lt;a href=&#34;https://github.com/dnwrnr&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Warner&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;As you may imagine, swift-sgp4 is the core of [ISSSeeker]({{ site.url }}/apps/issseeker).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
