@@ -13,6 +13,10 @@ enableRobotsTXT = true
   since = "2020"
   avatarURL = "images/me.jpeg"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [taxonomies]
   category = "categories"
   tag = "tags"
