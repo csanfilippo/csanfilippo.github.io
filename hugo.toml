@@ -22,10 +22,12 @@ dir = ':cacheDir/images'
 name = "About"
 weight = 1
 url = "about/"
+
 [[menu.main]]
 name = "Mobile Apps"
 weight = 2
 url  = "app-index/"
+
 [[menu.main]]
 name = "Blog"
 weight = 3
@@ -38,12 +40,21 @@ url  = "libs-index/"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-github fa-2x"
+icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/csanfilippo/"
 
 [[params.social]]
 name = "Linkedin"
-icon = "fa fa-linkedin fa-2x"
+icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url = "https://www.linkedin.com/in/calogero-sanfilippo"
+
+
+[[params.social]]
+name = "RSS"
+icon = "fa-solid fa-rss fa-2x"
+weight = 3
+url = "https://calogerosanfilippo.it/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
