@@ -13,11 +13,11 @@ series = []
 
 ![ISSSeekerIcon](/images/issseeker_icon.png)
 
-ISSSeeker permits to track in real time the position of the International Space Station (ISS).
+ISSSeeker allows you to track the real-time position of the International Space Station (ISS). 
 
-Moreover, you can also monitor its speed and its altitude.
+Additionally, you can monitor its speed and altitude. 
 
-If you're curious, you can also enjoy live view of our planet into the "Live" section of the app.
+For those curious, the app’s “Live” section offers a live view of our planet.
 
 {{< appStoreBadge "issseeker/id1438288330" >}}
 
