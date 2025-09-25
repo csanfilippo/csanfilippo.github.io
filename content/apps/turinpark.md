@@ -1,13 +1,7 @@
-+++ 
-draft = false
++++
 date = 2022-05-05T23:52:10+02:00
+draft = false
 title = "TurinPark"
-description = ""
-authors = ["Calogero Sanfilippo"]
-tags = []
-categories = []
-externalLink = ""
-series = []
 +++
 
 ![TurinParkIcon](/images/turinpark_icon.png)
