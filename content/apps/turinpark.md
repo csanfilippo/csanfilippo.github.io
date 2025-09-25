@@ -2,6 +2,7 @@
 date = 2022-05-05T23:52:10+02:00
 draft = false
 title = "TurinPark"
+summary = "TurinPark is an iOS app that helps drivers find available parking spaces in Turin. It shows free spots in real time, saving time and reducing stress."
 +++
 
 ![TurinParkIcon](/images/turinpark_icon.png)

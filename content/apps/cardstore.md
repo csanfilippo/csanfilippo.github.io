@@ -2,6 +2,7 @@
 date = '2025-09-25T13:25:15+02:00'
 draft = true
 title = 'CardStore'
+summary = "CardStore is a free iOS app that digitizes loyalty cards, storing barcodes on your iPhone. It supports various barcode formats and offers a user-friendly interface for easy access and scanning."
 +++
 
 **CardStore** is a free iOS app that allows you to store and manage the barcodes of your loyalty cards directly on your iPhone. This eliminates the need to carry physical cards, streamlining your shopping experience.
