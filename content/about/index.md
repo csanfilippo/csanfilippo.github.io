@@ -5,8 +5,8 @@ date = "2023-07-28"
 author = "Calogero Sanfilippo"
 +++
 
-Hi! I'm Calogero Sanfilippo.
+Hi there! My name is Calogero Sanfilippo, and I’m a software engineer from Italy. 
 
-I'm a software engineer from Italy, currently working as a Senior Software Engineer at [Gucci](https://www.gucci.com).
+I currently work as a Senior Software Engineer at Gucci. 
 
-In my spare time, I enjoy implementing small mobile apps to explore new feature and technologies
+In my free time, I enjoy developing small mobile apps to explore new features and technologies.
