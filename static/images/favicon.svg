@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <!-- Sfondo -->
+    <rect width="64" height="64" fill="#DC143C" rx="12"/>
+
+    <!-- Iniziali C e S -->
+    <text x="16" y="48" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" font-weight="bold">CS</text>
+</svg>

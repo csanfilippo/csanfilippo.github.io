@@ -12,7 +12,7 @@ keywords = "blog,developer,personal"
 colorScheme = "auto"
 since = "2020"
 avatarURL = "images/me.jpeg"
-
+faviconSVG = "images/favicon.svg"
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
