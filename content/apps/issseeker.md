@@ -13,11 +13,12 @@ series = []
 
 ![ISSSeekerIcon](/images/issseeker_icon.png)
 
-ISSSeeker allows you to track the real-time position of the International Space Station (ISS). 
+**ISSSeeker** is a free iOS app that allows users to track the real-time position of the International Space Station (ISS).
 
-Additionally, you can monitor its speed and altitude. 
+With a user-friendly interface, the app provides a live map showing the ISS's current location, altitude, and speed. Additionally, the "Live" section offers breathtaking views of Earth as seen from space.
 
-For those curious, the app’s “Live” section offers a live view of our planet.
+The app is compatible with iPhone, iPod touch, and Apple Vision, requiring iOS 14.0 or later. It supports multiple languages, including Italian, English, and Spanish.
+
 
 {{< appStoreBadge "issseeker/id1438288330" >}}
 
