@@ -6,5 +6,5 @@ title = "Libs"
 Here is the list of all the libraries I've developed so far:
 
 
-* [SGPKit](/libs/sgpkit)
+* [swift-spg4](/libs/swift-spg4)
 * [aral](/libs/aral)
