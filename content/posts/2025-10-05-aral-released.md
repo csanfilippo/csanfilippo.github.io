@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-10-05T08:42:44+02:00
 title = "Announcing aral: a multiplatform XML parser with a lightweight philosophy"
 description = ""
