@@ -28,7 +28,7 @@ weight = 2
 url  = "app-index/"
 
 [[menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 3
 url  = "posts/"
 
