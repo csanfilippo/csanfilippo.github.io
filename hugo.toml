@@ -57,3 +57,9 @@ weight = 3
 url = "https://calogerosanfilippo.it/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
+
+[params.umami]
+siteID = "0f53202d-3422-4b72-b84b-5101d530e567"
+scriptURL = "https://cloud.umami.is/script.js"
+# refer to the "tracking code" tab in your umami website dashboard
+# to obtain the script url
