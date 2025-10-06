@@ -1,6 +1,6 @@
-+++ 
-draft = false
++++
 date = 2022-06-25T23:52:10+02:00
+draft = false
 title = "ISSSeeker 1.5.0 released"
 description = ""
 authors = ["Calogero Sanfilippo"]

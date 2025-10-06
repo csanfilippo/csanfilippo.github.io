@@ -1,11 +1,11 @@
-+++ 
-draft = false
++++
 date = 2022-07-10T23:52:10+02:00
+draft = false
 title = "ISSSeeker 1.6.0 released"
 description = ""
 authors = ["Calogero Sanfilippo"]
 tags = []
-categories = []
+categories = ["Releases"]
 externalLink = ""
 series = []
 slug = "issseeker-160-released"
