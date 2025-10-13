@@ -7,4 +7,4 @@ Here is the list of all the libraries I've developed so far:
 
 
 * [swift-spg4](/libs/swift-spg4)
-* [aral](/libs/aral)
+* [aral](/libs/aral)  ([doc](/doc/aral/0.x/))
