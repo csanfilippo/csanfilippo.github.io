@@ -15,6 +15,8 @@ With an intuitive map and simple interface, the app shows how many spots are fre
 
 TurinPark is compatible with iPhone and iPad, and supports both Italian and English. It’s a practical tool for anyone who wants stress-free parking in the city.
 
+At the heart of the app beats a [KMP](https://www.jetbrains.com/kotlin-multiplatform/) heart and [aral](/libs/aral).
+
 {{< appStoreBadge "turinpark/id500484546" >}}
 
 [Privacy policy](/privacy/turinpark)
