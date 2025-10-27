@@ -6,7 +6,6 @@ description = ""
 slug = "aral-050-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]
-categories = ["Releases"]
 externalLink = ""
 series = []
 +++

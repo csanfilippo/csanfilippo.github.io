@@ -5,7 +5,6 @@ title = "swift-sgp4 on Swift Package Index"
 description = ""
 authors = ["Calogero Sanfilippo"]
 tags = ["SGPKit", "swift", "Satellite", "Orbital Mechanics", "release"]
-categories = ["Releases"]
 externalLink = ""
 series = []
 slug = "sgpkit-spm-index"

@@ -6,7 +6,6 @@ description = ""
 slug = "aral-is-here"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "multiplatform", "xml", "release"]
-categories = ["Releases"]
 externalLink = ""
 series = []
 +++
