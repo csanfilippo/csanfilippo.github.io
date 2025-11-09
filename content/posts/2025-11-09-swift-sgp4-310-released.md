@@ -1,6 +1,6 @@
 +++
 date = 2025-11-09T08:23:45+01:00
-draft = true
+draft = false
 title = "SGPKit 3.1.0 released"
 description = "SGPKit 3.1.0 released"
 slug = "sgpkit-310-released"
@@ -34,7 +34,19 @@ print("Encoded TLE data: \(data)")
 ```
 
 # Decoding
+
+Decoding a single TLE is quite simple.
+
+1. Begin by creating a `Data` object that contains the serialized TLE.
+2. Instantiate a TLEDecoder object.
+3. Call the `decode(_:)` method to reconstruct the TLE object.
+
+To decode a collection of TLEs, the method to call is `decodeCollection(_:)`
+
+Below, you’ll find two example.
+
 ## Decoding single TLE
+
 ```swift
 import SGPKit
 
@@ -49,6 +61,7 @@ print("Decoded TLE: \(tle)")
  ```
 
 ## Decoding multiple TLE
+
 ```swift
 import SGPKit
 
