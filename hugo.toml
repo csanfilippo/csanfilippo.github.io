@@ -37,6 +37,11 @@ name = "Libs"
 weight = 4
 url  = "libs-index/"
 
+[[menu.main]]
+name = "CV"
+weight = 5
+url  = "/cv.pdf"
+
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"

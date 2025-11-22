@@ -10,3 +10,5 @@ Hi there! My name is Calogero Sanfilippo, and I’m a software engineer from Ita
 Currently, I’m a Software Architect at Gucci.
 
 In my spare time, I enjoy developing small mobile apps to explore new features and technologies.
+
+My curriculum vitae et studiorum is available [here](/cv.pdf). 
