@@ -1,9 +1,16 @@
 +++
 date = '2025-10-05T08:24:17+02:00'
 draft = false
-title = 'aral'
+title = ''
 summary = "A multiplatform XML parser with a lightweight, event-driven design"
 +++
+
+{{< figure-dynamic
+dark-src="/images/aral_dark.png"
+light-src="/images/aral_light.png"
+width="30%"
+style="text-align: left"
+>}}
 
 **aral** is a Kotlin Multiplatform library for parsing XML — but more than that, it’s an attempt to make working with structured data across platforms feel natural, lightweight, and modern.
 
