@@ -64,5 +64,5 @@ rel = "alternate"
 type = "application/rss+xml"
 
 [params.umami]
-siteID = "0f53202d-3422-4b72-b84b-5101d530e567"
+siteID = "<umami-side-id>"
 scriptURL = "https://cloud.umami.is/script.js"

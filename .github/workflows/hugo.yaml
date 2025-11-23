@@ -18,6 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
+      UMAMI_SITE_ID: ${{ secrets.UMAMI_SITE_ID }}
       DART_SASS_VERSION: 1.93.2
       GO_VERSION: 1.25.3
       HUGO_VERSION: 0.152.2
@@ -77,6 +78,8 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
+      - name: Inject secret
+        run: go run inject-umami-id.go -file ./hugo.toml -secret ${{ env.UMAMI_SITE_ID }}
       - name: Build the site
         run: |
           hugo \
