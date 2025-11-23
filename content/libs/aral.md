@@ -2,7 +2,7 @@
 date = '2025-10-05T08:24:17+02:00'
 draft = false
 title = ''
-summary = "A multiplatform XML parser with a lightweight, event-driven design"
+summary = "A multiplatform XML push parser with a lightweight, event-driven design"
 +++
 
 {{< figure-dynamic
