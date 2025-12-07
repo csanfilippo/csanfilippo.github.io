@@ -6,7 +6,7 @@ title = ''
 
 **altai** is a simple Swift package aiming to improve the developer experience when using Swift [typed throws](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling#Specifying-the-Error-Type).
 
-# The background
+## The background
 
 [Swift 6](https://www.swift.org/blog/announcing-swift-6/) introduced typed throws, allowing functions to specify the type of error they can throw in their signature.
 
@@ -69,7 +69,7 @@ func throwingIfOdd(_ number: String) throws(CustomError) -> Int {
 
 The function now accepts a String input and attempts to decode it as an Int. If the decoding is successful, it evaluates whether the resulting Int is odd or even. However, if JSONDecoder throws an error, the code must catch it and map it to a CustomError. Even worse, we need to rethrow the CustomError that the function raised.
 
-# Where altai can help
+## Where altai can help
 
 By conforming to the `UpliftingErrors` defined in **altai**, `CustomError` becomes
 
@@ -98,15 +98,6 @@ func throwingIfOdd(_ number: String) throws(CustomError) -> Int {
 
 **altai** defines the extension method `uplift`, that catches the inner error and maps it to the domain specific error.
 
-### Swift Package Manager
+## Learn more
 
-If you want to use **altai** in any other project that uses [SwiftPM](https://swift.org/package-manager/), add the package as a dependency in `Package.swift`:
-
-```swift
-dependencies: [
-  .package(
-    url: "https://github.com/csanfilippo/altai.git",
-    from: "1.0.0"
-  ),
-]
-```
+- 📖 Full documentation and usage examples are on [GitHub](https://github.com/csanfilippo/altai)
