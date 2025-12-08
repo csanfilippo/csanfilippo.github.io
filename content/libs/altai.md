@@ -1,8 +1,15 @@
 +++
-date = '2025-12-07T11:11:01+01:00'
+date = '2025-12-08T11:11:01+01:00'
 draft = false
 title = ''
 +++
+
+{{< figure-dynamic
+dark-src="/images/altai_dark.png"
+light-src="/images/altai_light.png"
+width="30%"
+style="text-align: left"
+>}}
 
 **altai** is a simple Swift package aiming to improve the developer experience when using Swift [typed throws](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling#Specifying-the-Error-Type).
 
@@ -100,4 +107,5 @@ func throwingIfOdd(_ number: String) throws(CustomError) -> Int {
 
 ## Learn more
 
-- 📖 Full documentation and usage examples are on [GitHub](https://github.com/csanfilippo/altai)
+- Full documentation and usage examples are on [GitHub](https://github.com/csanfilippo/altai)
+- altai is index by [Swift Package Index](https://swiftpackageindex.com/csanfilippo/altai)
