@@ -8,3 +8,4 @@ Here’s a list of all the libraries I’ve created so far::
 * [aral](/libs/aral) ([doc](/doc/aral/0.x/))
 * [altai](/libs/altai) ([doc](https://swiftpackageindex.com/csanfilippo/altai/main/documentation/altai))
 * [swift-spg4](/libs/swift-spg4) ([doc](https://swiftpackageindex.com/csanfilippo/swift-sgp4/3.1.0/documentation/sgpkit))
+* [oman_petrol_stations](https://github.com/csanfilippo/oman-petrol-stations)
