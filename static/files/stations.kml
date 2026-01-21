@@ -1,0 +1,2260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Petrol Stations</name>
+    <Placemark>
+        <name>SAIH AL RAWL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>21.335017,56.764906</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ZAMAIM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>20.604783,57.004649</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MODERN HAIMA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.964621,56.277515</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAIMA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.956761,56.275851</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>GHAFTAIN SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.612683,55.516421</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MUKHAIZNA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.326716,56.356753</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MASROOQ SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.801418,56.019554</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ADAM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.394697,57.514702</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRI INDUSTRY SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.09377,56.36166</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BISYA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.736691,57.245258</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DUQUM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.626265,57.634862</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MODERN DUQUM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.609822,57.67253</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>TANAM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.14606,56.47616</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MAELEEF SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.936676,57.10547</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUFAY SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>21.455785,58.243504</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DIBESHI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.18785,56.47516</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IZZ SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.65123,57.55657</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HIQ SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>20.765843,58.285754</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW IBRI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.216642,56.487016</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MALINAT IBRI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.215831,56.512111</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BATAIN IBRI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.22597,56.49625</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QITBIT SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>19.175199,54.504011</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NIZWA INDUSTRY SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.791005,57.485612</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRI TOWN SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.249947,56.512647</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BEHLA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.978434,57.307716</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MANAH SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.785851,57.603212</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>RADAT AL BUSAID SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.85945,57.51943</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRI BAT SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.273378,56.728328</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHUWAIQIYAH SINAW SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.186507,58.146051</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW NIZWA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.88181,57.54188</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NIZWA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.904142,57.532474</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JABRIAH SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.88388,57.62489</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW SNAW SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.487378,58.026451</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAMRA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.120056,57.287147</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>FALAJ DARIS SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.968818,57.542298</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SINAW SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.504469,58.034053</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MISKIN SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.403602,56.732798</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHARIQ SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.515154,58.116268</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HUMAINIA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.434375,56.77453</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MUDHAIBI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.558582,58.116388</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IZKI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.957578,57.772374</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHUWAIYEE SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.730457,58.015753</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHIBAK IZKI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.908268,57.89033</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW IZKI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.050918,57.806261</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAMAD AL SHAN SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.771896,58.144638</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW RUSTAQ SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.403501,57.421463</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AIN SAMAIL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.14018,57.84319</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>RUSTAQ HEIGHTS SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.433149,57.424287</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MASIRAH SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>20.665448,58.874861</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NABAA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.91297,58.262735</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JARDA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.025648,58.210036</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAMAIL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.30599,57.94743</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.698082,58.54596</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NAZARI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.770276,58.49484</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI MAAWEL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.412537,57.823614</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ALHOBE SAMAIL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.32036,57.95868</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DREEZ SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.586213,58.68393</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BIDIYA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.45151,58.811287</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI NAM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.729955,58.639423</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>LUZOUGH SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.33219,58.11983</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BIDBID SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.416037,58.106443</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>TWIN BIDBID SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.417344,58.118279</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI BANI KHALID SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.493528,58.930617</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QRUN SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>21.447826,59.296271</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SOUQ IMAM SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.204352,59.209292</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KAMIL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.22343,59.201868</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JAALAN BU HASSAN SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.103464,59.283139</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JALAN BU ALI SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.017827,59.331107</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL URF SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.020527,59.350698</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MADINAT AL NAHDHA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.434256,58.453654</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HAJAR SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.383701,58.511972</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JALAN BANI BU ALI INDUSTRY SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.038696,59.368916</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW KAMIL SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.30359,59.28634</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AMRAT INDUSTRY SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.432765,58.506057</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>TRIF SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.276802,58.753384</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAIL AL GHAF SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.184515,58.88631</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ASHKHARA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>21.853921,59.563998</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QURIYAT SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>23.226356,58.894706</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI AWAIKER SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.10867,59.59871</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUR INDUSTRY SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.650835,59.39373</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUR LNG SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.602066,59.432725</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HASA SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.547673,59.48071</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUR SS</name>
+        <description>Brand: Shell</description>
+        <Point>
+            <coordinates>22.577872,59.508103</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>YITI FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.50731684452369,58.65716236222784</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI SAREER BAUSHER F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.550648,58.3986431</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>RUWI FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.588061,58.5410953</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QURIYAT PORT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.2605682,58.9246091</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QURIYAT DAGMAR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.188064822100767,58.95353174758134</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NORTH GHOBRA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5845901,58.3955991</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MSQ FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5909311,58.4591855</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MODERN DAGHMAR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.20540369868364,58.96672325749296</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MARSHA - GHALA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5727417,58.3804333</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JABAL SIFAH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.415069,58.794171</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>GHALA NORTH F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5834861,58.3667643</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>GHALA - SOUTH  F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5823354,58.338654</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BAUSHER AL HARTHY</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.566509577385464,58.41276705265045</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BAUSHAR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5846909,58.4108937</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BANDER RAWDHA</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.583395,58.6063926</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL ROMAILAH F/S WATTAYA-2</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5997356,58.5173033</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MISFAH F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.4780851,58.2376965</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KHUZAMA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5843779,58.5577419</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HABOOBIAH FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.285074833737553,58.74841868877411</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL BEERAIN F/S-MADINAT AL NAHD</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.4684778,58.4855985</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL ANSAB FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5365085,58.3501584</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AMERAT 3</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5256413,58.45467566</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AMERAT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.4854313,58.4988814</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AMERAT AL MAHAJ</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.521536,58.507009</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AFA`A QURIYAT 2 FILLING STATIO</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.24303704340894,58.9031137398872</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MABELAH INDUSTRY 2 FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6471395,58.09165631</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI AL LAWAMI F/SSEEB</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6584399,58.206215</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>UNIVERSITY FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5744198,58.1834986</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SEEB HARBOUR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.691098947284797,58.17770630121231</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SEEB AL SHARADI FILLING STN</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6716507,58.1537994</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MAWALLEH SOUTH BRIDGE F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6087399,58.2465279</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MAWALEH NORTH-2</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6247357,58.2615041</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MAHA AL HAIL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.615054,58.219269</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MABILAH 6 AL QADHI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.600347,58.121156</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MABAILAH INDUSTRIAL FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6581897,58.1135041</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MA`ABELLA AL JAZEERA FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6629613,58.1288827</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL-HAIL NORTH BAHWAN FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.649187579625274,58.21804404258728</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SAHWA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6148153,58.2486378</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MAWALEH S F/S ALI AL JARWAN</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5919626,58.2031996</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MAABELLAH SOUTH 1 F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6462234,58.1446798</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MA`ABELLAH SOUTH 2</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6475916,58.1773531</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KOUD RAWAN</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6392897,58.2039944</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KHOUDH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6467955,58.2008795</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KHOUDH- 2 FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6546474,58.2027387</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL JIFNIN FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5104799,58.1910161</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HAIL NORTH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.654666471449445,58.22474956512451</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QARAH FILLING/STNKHASAB</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>26.2041031,56.24357</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MADHA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>25.3034672,56.3504851</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHASAB PORT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>26.2089508,56.2431616</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHASAB PORT 2</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>26.207646,56.2545481</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DIBBA PORT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>25.6496214,56.2684663</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DIBBA FILLING STATION - CASH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>25.6070307,56.2648959</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ZAKHAR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.111469987556543,55.817434787750244</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>TAWI ATEER FILLING ST</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.1082308,54.5533313</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SOUTH RAYSUT F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>16.949256044582913,53.983605802059174</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHARBATHAT FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.94591600113589,56.2582665681839</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SALALAH INDUSTRIAL F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0265392,54.0441265</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAIH AL KHAIRAT FILLING/STN</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.2563939,54.0573981</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAHNOOT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0975298,54.2150688</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SADAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.069133536925097,55.07463455200195</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>RAYSUTE HARBOUR FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>16.9646053,53.9996684</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - MARMUL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.1817377,55.2050107</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NORTH AWQAD FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.030176089157717,54.033087434678734</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NEW SALALAH ROBAT ROAD FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.02256951096223,54.08378630876541</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NAJID THUMRAIT FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.604851683504886,54.03267413377762</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MARBAT HARBAR FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>16.9853479,54.686724</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MADNET AL-HAQ F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.175676,54.3863513</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHOR SOULY FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.052027,54.323693</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ITTEEN FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0445064,54.0609181</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HASIK FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.440754376437106,55.26017904281616</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DHALKOOT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>16.70450917171766,53.25486570596695</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AWQAD SALALAH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>16.993837535906703,54.02802050113678</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SHUWAIMIYA F/S - COOP FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.8849761,55.6122517</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SALAM SALALAH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.009827647058685,54.074310064315796</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SAADAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0528058,54.1528272</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL QOUF FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0110402,54.1060344</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL NAMA`A FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0078763,54.058778</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MUNTAZAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0046975,54.0718985</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MUGHSAIL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>16.882263890498972,53.77496212720871</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MAZIUNA FILLING ST</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.84370061369581,52.66374707221985</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL DAMAR  F / S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.0293522,54.6254921</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - BAHJA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.913174030196632,56.04132413864136</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - FAHUD FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.315649149952055,56.52292013168335</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - HARWEEL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.002282,54.6541</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - LEKHUWEIR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.830592838237813,55.32646715641022</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - MARMUL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.181913770176273,55.20523935556412</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - NIMR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.546292169946057,55.85439294576645</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - QARNALAM FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>21.32705202912517,57.09736883640289</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - RIMA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.848741259692908,56.30530446767807</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>PDO - YIBAL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.170458358968176,56.085355281829834</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AFLAJ FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.3895207,58.2086136</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL GHAREEN  (AL MUDHAIBI) FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.8732498,57.9977521</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KHASHABA (AL MUDHAIBI)</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.664665857444565,58.00772065466742</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MUDHAIRIB FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.6068496,58.6667445</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SHARQUIA WADI BANI KHALID</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.492596729876283,58.93422603607178</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL YAHMADI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.7519614,58.5078474</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL YAHMADI 2</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.78211,58.49494</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BARZEMAN F/STN  SINAW</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.2997437,58.0747713</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BIDDAYA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.4928597,58.7580101</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DEMA WATTA EEN F/STN</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.040349225418183,58.59965533018112</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHADHRA BANI DAFFA FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.795811255134524,58.00300061702728</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MASROON IBRA FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.665506782671613,58.589827716350555</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHERIA FILLING/STNSAMAD SHAN</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.845614,58.1830775</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SINAW FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.4975058,58.0422223</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI BANI KHALID</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.583542913119928,59.088850021362305</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Sinaw 2 station</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.44041,58.03104</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Masroon 2 station</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.644409,58.498471</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KAMIL WA AL WAFI FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.1665452,59.2393924</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KHUWAIMAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>21.36432536440995,59.18260931968689</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL RUWAIS FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.1799847,59.7624375</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL-KAMIL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.229110877271605,59.1844841837883</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ASSELAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>21.9597379,59.6359733</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JA`ALAN BANI BU ALI FILLING ST</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.0314129,59.337873</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JAALAN AL JAWABI - CASH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.007783313934645,59.418407678604126</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MASIRAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>20.6448396,58.8680259</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>RAS AL HAD</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.5139181,59.7940749</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUBAKH FILLING STATION SUR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.5573676,59.4912868</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUR AL- BAR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.6028584,59.4812691</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUR GHULILAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.5950491,59.4336922</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUR HARBOUR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.5779045,59.5293498</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Khor Grama Filling Station</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.48377,59.71778</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL BAHJA - SOHAR F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3042953,56.7738317</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL- HAJRA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3614236,56.7450907</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL JADEEDI - SUWAIQ F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.8459605,57.4376097</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL JOOD FILLING /STNSUWEIQ</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.8451246,57.3634505</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL KHABOURAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.9794156,57.1010807</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL LEHAIBAN/ SAHAM F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.793601111154963,56.86715483665466</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MAMARY SOHAR FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3309869,56.7252335</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MULLA FILLING /STNSOHAR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3961903,56.6766342</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL OWAINAT F/S - COOP F/S SO</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.2629948,56.8034016</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL REEF SOHAR (TAREEF 2)</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.371355024763734,56.70382171869278</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL REEM FALAJ AL QABAEL F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.4394004,56.6083813</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL RUSHDY FILLING</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.19491899850741,56.859848499298096</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ASRAR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.57971698644889,56.5375542640686</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BATHA AL ASHKAR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.134699002483842,56.88428610563278</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BATHA HILAL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.8297974,57.4037534</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BIN SHAHEEN SOOR AL MAZAREE</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.643676,56.509117</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>FALAJ AL QABAIL</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.41654365743789,56.60438418388367</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>FALAJ AL-UHI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.4444436,56.6027043</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAFEET FILLING /STN SAHAM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.05240863921233,56.971262097358704</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHADRAH AL SAHIL SUWAIQ F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.8716295,57.3553343</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHOUR ALHAMAM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.132664907446678,56.891584396362305</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MODERN SAHAM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.192650985430053,56.858083605766296</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NASEEM AL-SHARQ - SHINAS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.587991,56.532354</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>QARIH SUWAIQ FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.9021146,57.2201569</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAHAM AL ASHKHAR FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.13079967995252,56.85278356075287</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAHAM DEEL AL ABDUL SALAM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.0614393,56.9282116</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAHAM HARBOUR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.15180272363074,56.90638482570648</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAHAM SOUQ FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.15148945338014,56.881611943244934</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHINAS PORT FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.7457463,56.4709723</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SOHAR INDUSTRIAL FILLING STAT</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.4430444,56.6069949</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SOHAR PORT FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3768801,56.7403556</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUWAIQ QAREH 2 TP</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.9012757,57.2198192</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>TAREEF FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3604548,56.7223045</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI HIBI FILLING STATION NEW</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.3499362,56.7142746</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AQEER FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6761862,57.8430885</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HAZIM FILLING STN RUSTAQ</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5250691,57.4646669</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HOUQAIN F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.61205774575277,57.37124651670456</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MANAL FILLING S -  RUSTAQ</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5571304,57.4853721</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MUGHSAR - F/STN MUSANAA</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.7341887,57.6776828</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MULADAH - MUSANA FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.7310513,57.5703658</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SALAHA  BARKA FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6648324,57.9521496</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL-THARMAD-MUSANAH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.7964457,57.5212351</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ASIAN GAMES</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.805366,57.570637</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BARKA SOUQ FILING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.7003429,57.8899477</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NAKHAL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.409214031111233,57.82058358192444</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SAWADI FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.764829397410406,57.75546491146088</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHUAIBA-MUSANAH FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.77331283022898,57.645539939403534</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI AL MAWIL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.4726104049401,57.832060754299164</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WIDAM AL-SAHIL</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.800253,57.535045</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HADDABI WIDAM AL SAHIL 2</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.787818,57.5746522</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL BURAIMI AL ZOUROB FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.2315865,55.9573887</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL BURAIMI F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.2354599,55.9153343</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SALAHIYAH FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.769424727235656,55.88089022886944</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL WAJAJA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.8012248,56.2141144</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BURAIMI INDUSTRIAL FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.2738818,55.8186814</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAFEET BURAIMI FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.9714939,55.8380718</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHADRA ALBURAIMI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.2606537,55.7690914</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MAHADHA FS - AL-BURAIMI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.4184437,55.9606111</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>RAWDAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.8899706,55.8775577</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUNAINA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5984961,55.9637218</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI JIZZI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.205641970360755,56.206961274147034</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ABU MUDHABI FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.8143342,56.6836312</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL - KAHAL FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.838084823495752,56.9134658575058</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL - LAKBI FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.22438600661946,56.54533803462982</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL AJAIEZ HAIMA</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.551489856562576,57.19234585762024</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL JOUBA F/STN MAHOUT</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>20.87826034301935,58.19439768791199</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL LAKBI HARBOUR F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.18387339258043,56.54716998338699</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BAHJAT HAIMA</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.92773193833002,56.21398866176605</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DHAHAR FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.2432647,57.6181904</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAIMA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.9674459,56.2896081</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HITAM FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.586223958769114,56.582596600055695</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>JALMOOD FILLING STATION-RIMA</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.052209,56.4327555</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KHALUF FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>20.4723431,58.0662379</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MODERN AL DUQM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.71967,57.64041</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>NIMR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>18.542187,55.859054</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ODC - DUQM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.65828916206462,57.717806696891785</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SARAB FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>20.201899128950622,57.73235231637955</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>WADI SAI-DUQM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>19.614323,57.630088</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.194472,56.677167</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRI RAYIBAH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.267116,56.4808113</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IBRI AL-MAZIM</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.399419,56.263653</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HIJERAMAT F/S CO - OP</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.4021885,56.7238004</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAMRA`A AL DROO`A F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.6868737,56.6585878</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>FAHUD FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.3136179,56.5426022</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DREEZ FILLING STATION TP</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.3174849,56.6036576</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>DHANK FILLING STATION - CASH</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5544315,56.2453889</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AMLLA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.0198067,56.9252192</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL WAILI IBRI FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.2185475,56.500441</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL MUKHTABIA IBRI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.1617949,56.470576</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL IRAQI FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.2757439,56.547052</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL ARIDH FILLING STN IBRI</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.420570620494114,56.62970691919327</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Ghafat Bahla</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.959829,57.17116</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>TANUF FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.0323714,57.4222884</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SUMAIL FILLING STATION TP</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.26103640299394,57.93459355831146</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SOMRA SAMAIL FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.069034,58.187891</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SHAFAA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.80236376758288,57.77271956205368</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>OWAIFIYAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.4043525,56.8502863</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MANAH AL-MAHYUL</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.790868403341154,57.65710935581819</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IZZ FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.7187945,57.5676718</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>IZKI ZUKAIT</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.8935815,57.750594</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>HAI AL TURATH (NIZWA) FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.93377277235562,57.5897052680815</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>GHABAH FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>21.3788701,57.2529254</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>FANJA SAIH AL AHMER F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.4577989,58.1724252</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>FALAJ DARES</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.9660023,57.5411973</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>BISYA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.8653491,57.236159</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL SAHAMAA FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.0456074,57.8052815</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL JOUF - FIRQ  F/STN NIZWA</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.864105093324753,57.5374174118042</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL JABAL AL KHADHAR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.0792175,57.6732554</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HABI FS - COP</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.6538036,57.3164787</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Adam Al Rihab</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.383126,57.604936</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ADAM SANAA FS</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.462277,57.50848</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ADAM FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.361350201318174,57.51161456108093</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>ADAM AL-BASHAIR</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>22.524611099999998,57.585566699999994</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>MUSCAT HEAD OFFICE</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.587,58.358101</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Sohar Branch Office</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>24.396213,56.676281</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>SALALAH BRANCH OFFICE</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>17.017871,54.100231</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>AL HAIL 2 FILLING STATION</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.6296774,58.2325623</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>Al ANSAB Al MAHA F/S</name>
+        <description>Brand: Al Maha</description>
+        <Point>
+            <coordinates>23.5383544,58.358918</coordinates>
+        </Point>
+    </Placemark>
+  </Document>
+</kml>

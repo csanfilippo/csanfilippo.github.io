@@ -1,7 +1,7 @@
 +++
 date = 2026-01-20T11:45:25+01:00
 draft = true
-title = "Oman petrol stations: a Swift CLI tool to locate petrol stations in Oman"
+title = "oman_petrol_stations: a Swift CLI tool to locate petrol stations in Oman"
 description = "Oman petrol stations: a Swift CLI tool to locate petrol stations in Oman"
 slug = "oman-petrol-stations-released"
 authors = ["Calogero Sanfilippo"]
@@ -35,4 +35,8 @@ To run the cli, just clone the repository and execute the following command in t
 swift run swift run oman-petrol-stations --output-file-path stations.kml
 ```
 
-The script will generate a `stations.kml` file in the current directory, which you can open with Google Earth or any other KML viewer.
+The script will generate a `stations.kml` file in the current directory, which you can open with Google Earth or any other KML viewer. An example of the KML file produced by the script can be found [here](/files/stations.kml).
+
+Below is a map highlighting the primary destinations of my trip, along with two petrol stations I visited along the way.
+
+<iframe title="Oman 25/26" aria-label="Locator map" id="datawrapper-chart-EQzFM" src="https://datawrapper.dwcdn.net/EQzFM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="520" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>

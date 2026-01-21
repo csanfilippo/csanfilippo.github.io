@@ -66,3 +66,6 @@ type = "application/rss+xml"
 [params.umami]
 siteID = "<umami-side-id>"
 scriptURL = "https://cloud.umami.is/script.js"
+
+[markup.goldmark.renderer]
+unsafe = true
