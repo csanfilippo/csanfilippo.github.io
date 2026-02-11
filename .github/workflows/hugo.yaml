@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       UMAMI_SITE_ID: ${{ secrets.UMAMI_SITE_ID }}
-      DART_SASS_VERSION: 1.97.2
-      GO_VERSION: 1.25.5
-      HUGO_VERSION: 0.155.2
-      NODE_VERSION: 24.12.0
+      DART_SASS_VERSION: 1.97.3
+      GO_VERSION: 1.25.6
+      HUGO_VERSION: 0.155.3
+      NODE_VERSION: 24.13.0
       TZ: Europe/Oslo
     steps:
       - name: Checkout
