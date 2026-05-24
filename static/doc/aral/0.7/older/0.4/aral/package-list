@@ -1,0 +1,27 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:it.calogerosanfilippo.aral.xml////PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/EmptyDocumentException///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-empty-document-exception/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/EmptyDocumentException/EmptyDocumentException/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-empty-document-exception/-empty-document-exception.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParser///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParser/XMLParser/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser/-x-m-l-parser.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParser/parse/#kotlin.String/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser/parse.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.CharactersFound///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-characters-found/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.CharactersFound/CharactersFound/#kotlin.String/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-characters-found/-characters-found.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.CharactersFound/characters/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-characters-found/characters.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.DocumentEnd///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-document-end/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.DocumentStart///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-document-start/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementEndFound///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-end-found/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementEndFound/ElementEndFound/#kotlin.String/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-end-found/-element-end-found.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementEndFound/name/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-end-found/name.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementStartFound///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-start-found/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementStartFound/ElementStartFound/#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-start-found/-element-start-found.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementStartFound/attributes/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-start-found/attributes.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.ElementStartFound/name/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-element-start-found/name.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.Error///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-error/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.Error/Error/#kotlin.Exception/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-error/-error.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent.Error/exception/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/-error/exception.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserEvent///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-event/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserFactory///PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-factory/index.html
+$dokka.location:it.calogerosanfilippo.aral.xml/XMLParserFactory/getParser/#/PointingToDeclaration/aral/it.calogerosanfilippo.aral.xml/-x-m-l-parser-factory/get-parser.html
+it.calogerosanfilippo.aral.xml

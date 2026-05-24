@@ -42,7 +42,7 @@ It’s also a project that embraces **clarity and minimalism** — in its API, i
 ## Learn more
 
 - 📖 Installation instructions, and examples are on [GitHub](https://github.com/csanfilippo/aral)
-- Full documentation is [here](/doc/aral/0.x/)
+- Full documentation is [here](/doc/aral/1.0/)
 - 📦 Available on [Maven Central](https://search.maven.org/artifact/it.calogerosanfilippos/aral)
 
 ## Closing note
