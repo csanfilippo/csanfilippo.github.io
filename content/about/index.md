@@ -5,10 +5,10 @@ date = "2023-07-28"
 author = "Calogero Sanfilippo"
 +++
 
-Hi there! My name is Calogero Sanfilippo, and I’m a software engineer from Italy.
+Hi, I’m Calogero Sanfilippo, a software engineer from Italy. I currently work as a Software Architect at Gucci.
 
-Currently, I’m a Software Architect at Gucci.
+Outside of work I build open source software, mostly in Swift and Kotlin. On the Swift side, I maintain [swift-sgp4](/libs/swift-spg4), a package for satellite orbit prediction from TLE data, and [altai](/libs/altai), a small utility for working with Swift typed throws. On the Kotlin side, I’m working on [aral](/libs/aral), a multiplatform XML push parser built for Kotlin Multiplatform projects.
 
-In my spare time, I enjoy developing small mobile apps to explore new features and technologies.
+I also publish a few iOS apps — [ISSSeeker](/apps/issseeker) tracks the International Space Station in real time, [TurinPark](/apps/turinpark) helps find parking in Turin, and [CardStore](/apps/cardstore) stores loyalty card barcodes on your phone.
 
-My curriculum vitae et studiorum is available [here](/cv.pdf). 
+My CV is available [here](/cv.pdf).
