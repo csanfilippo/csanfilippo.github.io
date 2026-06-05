@@ -4,7 +4,7 @@ draft = false
 title = "Mobile Apps"
 +++
 
-Here’s a comprehensive list of all the applications I’ve created:
+I build iOS apps for fun. Here’s what I’ve shipped so far.
 
 * [ISSSeeker](/apps/issseeker)
 * [TurinPark](/apps/turinpark)
