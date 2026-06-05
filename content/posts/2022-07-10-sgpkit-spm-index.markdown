@@ -2,7 +2,7 @@
 date = 2022-07-10T23:52:10+02:00
 draft = false
 title = "swift-sgp4 on Swift Package Index"
-description = ""
+description = "swift-sgp4 is now listed on Swift Package Index, making it discoverable to the Swift community."
 authors = ["Calogero Sanfilippo"]
 tags = ["SGPKit", "swift", "Satellite", "Orbital Mechanics", "release"]
 externalLink = ""

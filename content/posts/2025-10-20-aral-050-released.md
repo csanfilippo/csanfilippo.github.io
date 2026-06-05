@@ -2,7 +2,7 @@
 date = 2025-10-20T22:37:25+02:00
 draft = false
 title = "aral 0.5.0 released"
-description = ""
+description = "aral 0.5.0 refactors the internal parser engine for clarity and maintainability, with no changes to the public API or behavior."
 slug = "aral-050-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]

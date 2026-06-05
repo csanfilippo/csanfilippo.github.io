@@ -2,7 +2,7 @@
 date = 2025-10-11T07:59:17+02:00
 draft = false
 title = "aral 0.4.0 Released"
-description = ""
+description = "aral 0.4.0 adds support for the Android Gradle Library Plugin for Kotlin Multiplatform, replacing the deprecated com.android.library approach."
 slug = "aral-040-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]
