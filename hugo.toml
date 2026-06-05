@@ -38,8 +38,13 @@ weight = 4
 url  = "libs-index/"
 
 [[menu.main]]
-name = "CV"
+name = "Projects"
 weight = 5
+url = "projects-index/"
+
+[[menu.main]]
+name = "CV"
+weight = 6
 url  = "/cv.pdf"
 
 [[params.social]]

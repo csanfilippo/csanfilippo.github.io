@@ -8,4 +8,3 @@ I build open source libraries in Swift and Kotlin. Here’s what I’ve publishe
 * [aral](/libs/aral) ([doc](/doc/aral/1.0/))
 * [altai](/libs/altai) ([doc](https://swiftpackageindex.com/csanfilippo/altai/main/documentation/altai))
 * [swift-sgp4](/libs/swift-spg4) ([doc](https://swiftpackageindex.com/csanfilippo/swift-sgp4/main/documentation/sgpkit))
-* [oman_petrol_stations](https://github.com/csanfilippo/oman-petrol-stations)
