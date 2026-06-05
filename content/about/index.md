@@ -11,4 +11,4 @@ Outside of work I build open source software, mostly in Swift and Kotlin. On the
 
 I also publish a few iOS apps — [ISSSeeker](/apps/issseeker) tracks the International Space Station in real time, [TurinPark](/apps/turinpark) helps find parking in Turin, [CardStore](/apps/cardstore) stores loyalty card barcodes on your phone, and [WorldSpinner](/apps/worldspinner) suggests random travel destinations with a shake.
 
-My CV is available [here](/cv.pdf).
+My CV is available as a [PDF](/cv.pdf).
