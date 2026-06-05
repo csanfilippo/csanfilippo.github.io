@@ -36,6 +36,7 @@ It doesn’t try to reinvent the SGP4 model — instead, it focuses on making it
 ## Learn more
 
 - 📖 Full documentation and usage examples are on [GitHub](https://github.com/csanfilippo/swift-sgp4)
+- swift-sgp4 is indexed by [Swift Package Index](https://swiftpackageindex.com/csanfilippo/swift-sgp4)
 
 
 
