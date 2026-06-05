@@ -1,7 +1,7 @@
 +++
 date = 2026-01-20T11:45:25+01:00
 draft = false
-title = "oman_petrol_stations: a Swift CLI tool to locate petrol stations in Oman"
+title = "oman-petrol-stations: a Swift CLI tool to locate petrol stations in Oman"
 description = "Oman petrol stations: a Swift CLI tool to locate petrol stations in Oman"
 slug = "oman-petrol-stations-released"
 authors = ["Calogero Sanfilippo"]
