@@ -59,7 +59,7 @@ url = "https://www.linkedin.com/in/calogero-sanfilippo"
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
 weight = 3
-url = "https://calogerosanfilippo.it/index.xml"
+url = "https://csanfilippo.github.io/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 

@@ -32,7 +32,7 @@ You can find the project on my [GitHub repository](https://github.com/csanfilipp
 To run the cli, just clone the repository and execute the following command in the terminal:
 
 ```bash
-swift run swift run oman-petrol-stations --output-file-path stations.kml
+swift run oman-petrol-stations --output-file-path stations.kml
 ```
 
 The script will generate a `stations.kml` file in the current directory, which you can open with Google Earth or any other KML viewer. An example of the KML file produced by the script can be found [here](/files/stations.kml).
