@@ -5,7 +5,7 @@ title = "Announcing aral: a multiplatform XML parser with a lightweight philosop
 description = "Introducing aral, a lightweight Kotlin Multiplatform XML push parser with a unified, event-driven API across Android, iOS, and macOS."
 slug = "aral-is-here"
 authors = ["Calogero Sanfilippo"]
-tags = ["kotlin", "multiplatform", "xml", "release"]
+tags = ["kotlin", "kotlin-multiplatform", "xml", "aral", "release"]
 externalLink = ""
 series = []
 +++

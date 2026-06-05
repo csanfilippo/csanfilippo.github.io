@@ -5,7 +5,7 @@ title = "SGPKit 3.1.0 released"
 description = "SGPKit 3.1.0 released"
 slug = "sgpkit-310-released"
 authors = ["Calogero Sanfilippo"]
-tags = ["SGPKit", "swift", "Satellite", "Orbital Mechanics", "release"]
+tags = ["swift", "swift-sgp4", "satellite", "orbital-mechanics", "release"]
 externalLink = ""
 series = []
 +++

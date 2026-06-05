@@ -5,7 +5,7 @@ title = "aral (finally) indexed on Klibs.io"
 description = "aral (finally) indexed on Klibs.io"
 slug = "aral-on-klibs"
 authors = ["Calogero Sanfilippo"]
-tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]
+tags = ["kotlin", "kotlin-multiplatform", "xml", "aral"]
 externalLink = ""
 series = []
 +++

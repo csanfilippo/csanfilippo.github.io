@@ -5,7 +5,7 @@ title = "aral 1.0.0: first stable release with namespace support"
 description = "aral 1.0.0: first stable release with namespace support"
 slug = "aral-100-released"
 authors = ["Calogero Sanfilippo"]
-tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]
+tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
 externalLink = ""
 series = []
 +++

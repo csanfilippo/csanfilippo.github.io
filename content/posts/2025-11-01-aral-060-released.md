@@ -5,7 +5,7 @@ title = "aral 0.6.0 released: support for CDATA"
 description = "aral 0.6.0 released: support for CDATA"
 slug = "aral-060-released"
 authors = ["Calogero Sanfilippo"]
-tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]
+tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
 externalLink = ""
 series = []
 +++

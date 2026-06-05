@@ -5,7 +5,7 @@ title = "altai: elevating typed throws in Swift"
 description = "altai: elevating typed throws in Swift"
 slug = "altai-released"
 authors = ["Calogero Sanfilippo"]
-tags = ["altai", "swift"]
+tags = ["swift", "altai"]
 +++
 
 [Swift 6](https://www.swift.org/blog/announcing-swift-6/) introduced *typed throws*, a powerful enhancement that allows developers to declare the specific error types a function may throw. While this feature improves clarity and safety, it also introduces challenges, particularly when dealing with nested or heterogeneous error sources. 

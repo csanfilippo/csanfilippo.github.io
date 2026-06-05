@@ -5,7 +5,7 @@ title = "aral 0.4.1 released"
 description = "aral 0.4.1 fixes a bug where character data split across multiple parser events was not buffered correctly, causing incomplete values."
 slug = "aral-041-released"
 authors = ["Calogero Sanfilippo"]
-tags = ["kotlin", "multiplatform", "xml", "jvm", "release"]
+tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
 externalLink = ""
 series = []
 +++
