@@ -19,9 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       UMAMI_SITE_ID: ${{ secrets.UMAMI_SITE_ID }}
-      DART_SASS_VERSION: 1.100.0
-      GO_VERSION: 1.26.3
-      HUGO_VERSION: 0.163.1
+      DART_SASS_VERSION: 1.101.0
+      GO_VERSION: 1.26.4
+      HUGO_VERSION: 0.163.3
       NODE_VERSION: 24.16.0
       TZ: Europe/Oslo
     steps:
@@ -47,13 +47,13 @@ jobs:
           mkdir -p "${HOME}/.local"
       - name: Install Dart Sass
         run: |
-          curl -sLJO "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          curl -sLO "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           tar -C "${HOME}/.local" -xf "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
       - name: Install Hugo
         run: |
-          curl -sLJO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          curl -sLO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
           mkdir "${HOME}/.local/hugo"
           tar -C "${HOME}/.local/hugo" -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
           rm "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
@@ -66,10 +66,13 @@ jobs:
           echo "Node.js: $(node --version)"
       - name: Install Node.js dependencies
         run: |
-          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+          if [ -f package-lock.json ]; then
+            echo "Installing Node.js dependencies..."
+            npm ci
+          fi
       - name: Configure Git
         run: |
-          git config core.quotepath false
+          git config --global core.quotepath false
       - name: Cache restore
         id: cache-restore
         uses: actions/cache/restore@v5
@@ -86,7 +89,6 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
-        id: cache-save
         uses: actions/cache/save@v5
         with:
           path: ${{ runner.temp }}/hugo_cache
@@ -94,14 +96,14 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
+          include-hidden-files: false
           path: ./public
   deploy:
+    runs-on: ubuntu-latest
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v5
