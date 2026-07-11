@@ -1,0 +1,12 @@
+name: Inject Umami site ID
+description: Replaces the <umami-side-id> placeholder in hugo.toml with the real site ID
+inputs:
+  site-id:
+    description: Umami site ID (from secrets)
+    required: true
+runs:
+  using: composite
+  steps:
+    - name: Inject Umami site ID
+      shell: bash
+      run: go run inject-umami-id.go -file ./hugo.toml -secret ${{ inputs.site-id }}
