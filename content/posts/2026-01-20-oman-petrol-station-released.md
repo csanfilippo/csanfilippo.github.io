@@ -1,5 +1,5 @@
 +++
-date = 2026-01-20T11:45:25+01:00
+date = '2026-01-20T11:45:25+01:00'
 draft = false
 title = "oman-petrol-stations: a Swift CLI tool to locate petrol stations in Oman"
 description = "Oman petrol stations: a Swift CLI tool to locate petrol stations in Oman"

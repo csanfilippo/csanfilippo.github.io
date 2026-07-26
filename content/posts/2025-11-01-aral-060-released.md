@@ -1,5 +1,5 @@
 +++
-date = 2025-11-01T20:23:45+01:00
+date = '2025-11-01T20:23:45+01:00'
 draft = false
 title = "aral 0.6.0 released: support for CDATA"
 description = "aral 0.6.0 released: support for CDATA"

@@ -1,5 +1,5 @@
 +++
-date = 2026-07-26T10:00:00+02:00
+date = '2026-07-26T10:00:00+02:00'
 draft = false
 title = "CardStore 2.0.0 Released"
 description = "CardStore 2.0.0 is a full rewrite of the original 2014 app: SwiftUI throughout, a GRDB-backed store, and automatic migration from the old data."

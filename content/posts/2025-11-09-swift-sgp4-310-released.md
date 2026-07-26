@@ -1,5 +1,5 @@
 +++
-date = 2025-11-09T08:23:45+01:00
+date = '2025-11-09T08:23:45+01:00'
 draft = false
 title = "SGPKit 3.1.0 released"
 description = "SGPKit 3.1.0 released"

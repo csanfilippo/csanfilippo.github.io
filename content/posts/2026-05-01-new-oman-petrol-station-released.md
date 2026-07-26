@@ -1,5 +1,5 @@
 +++
-date = 2026-04-30T11:45:25+01:00
+date = '2026-04-30T11:45:25+01:00'
 draft = false
 title = "v1.2.0 of my Oman petrol stations CLI is out."
 description = "v1.2.0 of my Oman petrol stations CLI is out."

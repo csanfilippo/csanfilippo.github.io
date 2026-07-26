@@ -1,5 +1,5 @@
 +++
-date = 2022-05-05T23:52:10+02:00
+date = '2022-05-05T23:52:10+02:00'
 draft = false
 title = "TurinPark 2.1.3 released"
 description = "TurinPark 2.1.3 is out on the App Store, completely rewritten in SwiftUI."

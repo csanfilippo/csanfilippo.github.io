@@ -1,5 +1,5 @@
 +++
-date = 2025-10-31T22:38:49+01:00
+date = '2025-10-31T22:38:49+01:00'
 draft = false
 title = "aral 0.5.1 released: A More Robust and Performant Parser"
 description = "Announcing the release of aral 0.5.1. This patch focuses on improving parser robustness with better handling of blank input and significantly boosts performance for character-heavy XML documents."

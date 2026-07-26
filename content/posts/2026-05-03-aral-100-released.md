@@ -1,5 +1,5 @@
 +++
-date = 2026-05-03T10:00:00+02:00
+date = '2026-05-03T10:00:00+02:00'
 draft = false
 title = "aral 1.0.0: first stable release with namespace support"
 description = "aral 1.0.0: first stable release with namespace support"

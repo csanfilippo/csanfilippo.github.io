@@ -1,5 +1,5 @@
 +++
-date = 2022-07-03T23:52:10+02:00
+date = '2022-07-03T23:52:10+02:00'
 draft = false
 title = "swift-sgp4 1.0.0 is here!"
 description = "swift-sgp4 1.0.0: a Swift package for computing satellite positions from TLE data, wrapping Daniel Warner's sgp4 C++ library."

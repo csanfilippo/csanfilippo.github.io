@@ -1,5 +1,5 @@
 +++
-date = 2025-10-05T08:42:44+02:00
+date = '2025-10-05T08:42:44+02:00'
 draft = false
 title = "Announcing aral: a multiplatform XML parser with a lightweight philosophy"
 description = "Introducing aral, a lightweight Kotlin Multiplatform XML push parser with a unified, event-driven API across Android, iOS, and macOS."

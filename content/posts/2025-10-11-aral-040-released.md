@@ -1,5 +1,5 @@
 +++
-date = 2025-10-11T07:59:17+02:00
+date = '2025-10-11T07:59:17+02:00'
 draft = false
 title = "aral 0.4.0 Released"
 description = "aral 0.4.0 adds support for the Android Gradle Library Plugin for Kotlin Multiplatform, replacing the deprecated com.android.library approach."
