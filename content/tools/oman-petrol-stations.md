@@ -6,6 +6,14 @@ summary = "A Swift CLI for macOS that maps every petrol station in Oman from the
 aliases = ["/projects/oman-petrol-stations/"]
 +++
 
+{{< figure-dynamic
+dark-src="/images/oman-petrol-stations-icon.png"
+light-src="/images/oman-petrol-stations-icon.png"
+alt="oman-petrol-stations icon"
+width="30%"
+style="text-align: left"
+>}}
+
 **oman-petrol-stations** is a small Swift command line tool for macOS that downloads location and metadata for every petrol station operated by the three main Omani providers — Oman Oil, Shell, and Al Maha — and exports the result as CSV or KML.
 
 ## Why oman-petrol-stations?
