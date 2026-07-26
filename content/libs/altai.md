@@ -1,7 +1,7 @@
 +++
 date = '2025-12-08T11:11:01+01:00'
 draft = false
-title = ''
+title = 'altai'
 summary = "A Swift package that makes typed throws practical by uplifting nested errors into your domain error type"
 +++
 

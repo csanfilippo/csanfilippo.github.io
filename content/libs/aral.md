@@ -1,7 +1,7 @@
 +++
 date = '2025-10-05T08:24:17+02:00'
 draft = false
-title = ''
+title = 'aral'
 summary = "A multiplatform XML push parser with a lightweight, event-driven design"
 +++
 
