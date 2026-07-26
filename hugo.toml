@@ -4,6 +4,9 @@ title = 'Calogero Sanfilippo'
 theme = 'hugo-coder'
 enableRobotsTXT = true
 
+[taxonomies]
+tag = "tags"
+
 [params]
 author = "Calogero Sanfilippo"
 info = "Software Architect at Gucci"
