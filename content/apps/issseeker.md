@@ -7,11 +7,9 @@ summary = "ISSSeeker is a free iOS app that tracks the International Space Stati
 
 ![ISSSeekerIcon](/images/issseeker_icon.png)
 
-# ISSSeeker
-
 **ISSSeeker** is a free iOS app that allows users to track the real-time position of the International Space Station (ISS).
 
-# Screenshots
+## Screenshots
 
 ![ISSSeekerScreen](/images/issseeker_screen.png)
 

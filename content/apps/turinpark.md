@@ -7,11 +7,9 @@ summary = "TurinPark is an iOS app that helps drivers find available parking spa
 
 ![TurinParkIcon](/images/turinpark_icon.png)
 
-# TurinPark
-
 **TurinPark** is a handy iOS app that helps drivers in Turin find available parking spaces in real time.
 
-# Screenshots
+## Screenshots
 
 ![TurinParkScreen](/images/turinpark_screen.png)
 

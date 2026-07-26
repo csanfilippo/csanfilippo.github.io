@@ -8,6 +8,7 @@ summary = "A multiplatform XML push parser with a lightweight, event-driven desi
 {{< figure-dynamic
 dark-src="/images/aral_dark.png"
 light-src="/images/aral_light.png"
+alt="aral logo"
 width="30%"
 style="text-align: left"
 >}}

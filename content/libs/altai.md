@@ -8,6 +8,7 @@ summary = "A Swift package that makes typed throws practical by uplifting nested
 {{< figure-dynamic
 dark-src="/images/altai_dark.png"
 light-src="/images/altai_light.png"
+alt="altai logo"
 width="30%"
 style="text-align: left"
 >}}

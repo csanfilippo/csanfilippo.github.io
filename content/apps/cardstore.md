@@ -7,11 +7,9 @@ summary = "CardStore is a free iOS app that keeps all your loyalty, membership, 
 
 ![CardStoreIcon](/images/cardstore_icon.png)
 
-# CardStore
-
 **CardStore** is a free iOS app that keeps all your loyalty, membership, and store cards in one place — on your phone, always with you.
 
-# Screenshots
+## Screenshots
 
 ![CardStoreScreen](/images/cardstore_screen.png)
 
