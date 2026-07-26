@@ -2,12 +2,6 @@
 date = 2022-05-05T23:52:10+02:00
 draft = false
 title = "swift-sgp4"
-description = ""
-authors = ["Calogero Sanfilippo"]
-tags = ["Swift"]
-categories = []
-externalLink = ""
-series = []
 summary = "A Swift package for satellite orbit prediction from TLE data"
 +++
 
