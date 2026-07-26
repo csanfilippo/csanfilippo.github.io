@@ -1,0 +1,40 @@
+{{/*
+  Structured data (schema.org JSON-LD) so search engines can attribute
+  authorship and identify posts/software pages beyond plain meta tags.
+*/}}
+{{ if .IsHome }}
+  {{ $sameAs := slice }}
+  {{ range .Site.Params.social }}{{ $sameAs = $sameAs | append .url }}{{ end }}
+  {{ $person := dict
+    "@context" "https://schema.org"
+    "@type" "Person"
+    "name" .Site.Params.author
+    "url" .Site.BaseURL
+    "jobTitle" .Site.Params.info
+    "sameAs" $sameAs
+  }}
+  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $person | safeJS }}</script>
+{{ else if eq .Type "posts" }}
+  {{ $post := dict
+    "@context" "https://schema.org"
+    "@type" "BlogPosting"
+    "headline" (.Title | default .Site.Title)
+    "description" (.Description | default .Summary)
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "url" .Permalink
+    "author" (dict "@type" "Person" "name" .Site.Params.author)
+  }}
+  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $post | safeJS }}</script>
+{{ else if in (slice "apps" "libs" "projects") .Type }}
+  {{ $schemaType := "SoftwareSourceCode" }}
+  {{ if eq .Type "apps" }}{{ $schemaType = "SoftwareApplication" }}{{ end }}
+  {{ $software := dict
+    "@context" "https://schema.org"
+    "@type" $schemaType
+    "name" (.Title | default .Site.Title)
+    "description" (.Description | default .Summary)
+    "url" .Permalink
+    "author" (dict "@type" "Person" "name" .Site.Params.author)
+  }}
+  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $software | safeJS }}</script>
+{{ end }}
