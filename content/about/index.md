@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = 'About'
 description = "Something about me"
 date = '2023-07-28T00:00:00+00:00'
 author = "Calogero Sanfilippo"

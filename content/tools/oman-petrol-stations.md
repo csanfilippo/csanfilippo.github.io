@@ -1,7 +1,7 @@
 +++
 date = '2026-07-26T10:00:00+02:00'
 draft = false
-title = "oman-petrol-stations"
+title = 'oman-petrol-stations'
 summary = "A Swift CLI for macOS that maps every petrol station in Oman from the three major providers"
 aliases = ["/projects/oman-petrol-stations/"]
 +++

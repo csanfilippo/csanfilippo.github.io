@@ -1,7 +1,7 @@
 +++
 date = '2025-11-26T11:02:09+01:00'
 draft = false
-title = "aral (finally) indexed on Klibs.io"
+title = 'aral (finally) indexed on Klibs.io'
 description = "aral (finally) indexed on Klibs.io"
 slug = "aral-on-klibs"
 authors = ["Calogero Sanfilippo"]

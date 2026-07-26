@@ -1,7 +1,7 @@
 +++
 date = '2025-11-01T20:23:45+01:00'
 draft = false
-title = "aral 0.6.0 released: support for CDATA"
+title = 'aral 0.6.0 released: support for CDATA'
 description = "aral 0.6.0 released: support for CDATA"
 slug = "aral-060-released"
 authors = ["Calogero Sanfilippo"]

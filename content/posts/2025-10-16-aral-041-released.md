@@ -1,7 +1,7 @@
 +++
 date = '2025-10-16T20:53:32+02:00'
 draft = false
-title = "aral 0.4.1 released"
+title = 'aral 0.4.1 released'
 description = "aral 0.4.1 fixes a bug where character data split across multiple parser events was not buffered correctly, causing incomplete values."
 slug = "aral-041-released"
 authors = ["Calogero Sanfilippo"]

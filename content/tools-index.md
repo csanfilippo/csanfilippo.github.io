@@ -1,7 +1,7 @@
 +++
 date = '2022-05-05T23:52:10+02:00'
 draft = false
-title = "Tools"
+title = 'Tools'
 aliases = ["/projects-index/"]
 +++
 Small tools and scripts I've built for fun or out of necessity.

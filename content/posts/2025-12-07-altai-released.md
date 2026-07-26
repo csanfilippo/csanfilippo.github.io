@@ -1,7 +1,7 @@
 +++
 date = '2025-12-06T11:11:24+01:00'
 draft = false
-title = "altai: elevating typed throws in Swift"
+title = 'altai: elevating typed throws in Swift'
 description = "altai: elevating typed throws in Swift"
 slug = "altai-released"
 authors = ["Calogero Sanfilippo"]
