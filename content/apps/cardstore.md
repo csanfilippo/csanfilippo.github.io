@@ -20,3 +20,7 @@ CardStore is compatible with iPhone, requiring iOS 18.5 or later, and supports I
 {{< appStoreBadge "cardstore/id957226651" >}}
 
 [Privacy policy](/privacy/cardstore) · [Terms and conditions](/terms/cardstore-terms)
+
+# Screenshots
+
+![CardStoreScreen](/images/cardstore_screen.png)
