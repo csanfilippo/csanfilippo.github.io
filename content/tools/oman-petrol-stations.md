@@ -3,6 +3,7 @@ date = 2026-07-26T10:00:00+02:00
 draft = false
 title = "oman-petrol-stations"
 summary = "A Swift CLI for macOS that maps every petrol station in Oman from the three major providers"
+aliases = ["/projects/oman-petrol-stations/"]
 +++
 
 **oman-petrol-stations** is a small Swift command line tool for macOS that downloads location and metadata for every petrol station operated by the three main Omani providers — Oman Oil, Shell, and Al Maha — and exports the result as CSV or KML.

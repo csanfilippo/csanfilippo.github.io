@@ -38,9 +38,9 @@ weight = 4
 url  = "libs-index/"
 
 [[menu.main]]
-name = "Projects"
+name = "Tools"
 weight = 5
-url = "projects-index/"
+url = "tools-index/"
 
 [[menu.main]]
 name = "CV"

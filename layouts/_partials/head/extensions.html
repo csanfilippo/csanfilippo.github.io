@@ -25,7 +25,7 @@
     "author" (dict "@type" "Person" "name" .Site.Params.author)
   }}
   <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $post | safeJS }}</script>
-{{ else if in (slice "apps" "libs" "projects") .Type }}
+{{ else if in (slice "apps" "libs" "tools") .Type }}
   {{ $schemaType := "SoftwareSourceCode" }}
   {{ if eq .Type "apps" }}{{ $schemaType = "SoftwareApplication" }}{{ end }}
   {{ $software := dict
