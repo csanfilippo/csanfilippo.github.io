@@ -11,18 +11,24 @@ summary = "TurinPark is an iOS app that helps drivers find available parking spa
 
 **TurinPark** is a handy iOS app that helps drivers in Turin find available parking spaces in real time.
 
-With an intuitive map and simple interface, the app shows how many spots are free in each parking area, letting you save time and avoid driving around in circles.
+# Screenshots
 
-TurinPark is compatible with iPhone and iPad, and supports both Italian and English. It’s a practical tool for anyone who wants stress-free parking in the city.
+![TurinParkScreen](/images/turinpark_screen.png)
 
-At the heart of the app beats a [KMP](https://www.jetbrains.com/kotlin-multiplatform/) heart and [aral](/libs/aral).
+### Find a spot
+
+An intuitive map shows how many spots are free in each parking area, so you save time and stop driving in circles.
+
+### Under the hood
+
+Built with [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform/) and [aral](/libs/aral).
+
+### Compatibility
+
+iPhone and iPad. Available in Italian and English.
 
 {{< appStoreBadge "turinpark/id500484546" >}}
 
 [Privacy policy](/privacy/turinpark)
 
 [Terms and conditions](/terms/turinpark-terms)
-
-# Screenshots
-
-![TurinParkScreen](/images/turinpark_screen.png)
