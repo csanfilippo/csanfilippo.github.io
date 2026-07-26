@@ -17,4 +17,4 @@ Free and easy to use, WorldSpinner supports both English and Italian on iPhone.
 - **Cross‑platform availability**: Compatible with iPhone, iPod touch, Mac (Apple Silicon), and Apple Vision.
 - **Multilingual support**: Available in English and Italian.
 
-{{< appStoreBadge "worldspinner/id1476970695" >}}
+**No longer available on the App Store.**
