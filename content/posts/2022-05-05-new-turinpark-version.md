@@ -14,4 +14,4 @@ Today [TurinPark](/apps/turinpark) 2.1.3 has been released on AppStore.
 
 The app has been completely written in SwiftUI!
 
-{{< appStoreBadge "issseeker/id1438288330" >}}
+{{< appStoreBadge "turinpark/id500484546" >}}
