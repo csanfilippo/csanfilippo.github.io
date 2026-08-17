@@ -6,7 +6,6 @@ description = "Introducing aral, a lightweight Kotlin Multiplatform XML push par
 slug = "aral-is-here"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "aral", "release"]
-externalLink = ""
 +++
 
 I’m happy to share something I’ve been working on: **aral**, a Kotlin Multiplatform library for parsing XML.

@@ -6,7 +6,6 @@ description = "aral 0.5.0 refactors the internal parser engine for clarity and m
 slug = "aral-050-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
-externalLink = ""
 +++
 
 Version **0.5.0** of aral is now available.

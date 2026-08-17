@@ -6,7 +6,6 @@ description = "aral 0.4.0 adds support for the Android Gradle Library Plugin for
 slug = "aral-040-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
-externalLink = ""
 +++
 
 Aral 0.4.0 is now available. This release introduces support for the [Android Gradle Library Plugin for Kotlin Multiplatform (KMP)](https://developer.android.com/kotlin/multiplatform/plugin).

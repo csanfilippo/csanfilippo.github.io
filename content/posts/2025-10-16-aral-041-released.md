@@ -6,7 +6,6 @@ description = "aral 0.4.1 fixes a bug where character data split across multiple
 slug = "aral-041-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
-externalLink = ""
 +++
 
 aral 0.4.1 is now available.

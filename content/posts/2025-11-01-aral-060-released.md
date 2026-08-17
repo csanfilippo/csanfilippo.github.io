@@ -6,7 +6,6 @@ description = "aral 0.6.0 released: support for CDATA"
 slug = "aral-060-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
-externalLink = ""
 +++
 
 **aral 0.6.0** is now available. It adds **support for CDATA sections** in XML parsing.

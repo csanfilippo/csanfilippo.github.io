@@ -6,8 +6,6 @@ description = "v1.2.0 of my Oman petrol stations CLI is out."
 slug = "new-oman-petrol-stations-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "oman", "travel", "cli", "open-source"]
-categories = []
-externalLink = ""
 +++
 
 [oman-petrol-stations](https://github.com/csanfilippo/oman-petrol-stations) v1.2.0 is out.

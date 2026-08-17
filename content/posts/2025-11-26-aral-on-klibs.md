@@ -6,7 +6,6 @@ description = "aral (finally) indexed on Klibs.io"
 slug = "aral-on-klibs"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "aral"]
-externalLink = ""
 +++
 
 Starting from yesterday, [aral](/libs/aral) is indexed on [Klibs.io](https://klibs.io/).

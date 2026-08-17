@@ -5,7 +5,6 @@ title = 'swift-sgp4 1.0.0 is here!'
 description = "swift-sgp4 1.0.0: a Swift package for computing satellite positions from TLE data, wrapping Daniel Warner's sgp4 C++ library."
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "swift-sgp4", "satellite", "orbital-mechanics", "release"]
-externalLink = ""
 slug = "sgpkit-released"
 +++
 

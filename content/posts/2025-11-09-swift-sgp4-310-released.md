@@ -6,7 +6,6 @@ description = "SGPKit 3.1.0 released"
 slug = "sgpkit-310-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "swift-sgp4", "satellite", "orbital-mechanics", "release"]
-externalLink = ""
 +++
 
 A new version of SGPKit, **3.1.0**, has been released.

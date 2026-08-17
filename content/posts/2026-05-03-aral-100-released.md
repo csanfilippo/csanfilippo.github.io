@@ -6,7 +6,6 @@ description = "aral 1.0.0: first stable release with namespace support"
 slug = "aral-100-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
-externalLink = ""
 +++
 
 **aral 1.0.0** is out, marking the library's first stable release.
