@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /doc/aral/*/older/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
