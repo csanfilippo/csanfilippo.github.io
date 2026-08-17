@@ -4,30 +4,30 @@
 
 ## About
 
-- [About](https://csanfilippo.github.io/about/): Background and bio.
-- [CV](https://csanfilippo.github.io/cv.pdf): Resume as PDF.
+- [About](https://calogerosanfilippo.it/about/): Background and bio.
+- [CV](https://calogerosanfilippo.it/cv.pdf): Resume as PDF.
 
 ## Libraries
 
-- [aral](https://csanfilippo.github.io/libs/aral/): A Kotlin Multiplatform XML push parser with a lightweight, event-driven design.
-- [altai](https://csanfilippo.github.io/libs/altai/): A Swift package that makes typed throws practical by uplifting nested errors into your domain error type.
-- [swift-sgp4](https://csanfilippo.github.io/libs/swift-spg4/): A Swift package for satellite orbit prediction from TLE (two-line element) data.
+- [aral](https://calogerosanfilippo.it/libs/aral/): A Kotlin Multiplatform XML push parser with a lightweight, event-driven design.
+- [altai](https://calogerosanfilippo.it/libs/altai/): A Swift package that makes typed throws practical by uplifting nested errors into your domain error type.
+- [swift-sgp4](https://calogerosanfilippo.it/libs/swift-spg4/): A Swift package for satellite orbit prediction from TLE (two-line element) data.
 
 ## Mobile apps
 
-- [CardStore](https://csanfilippo.github.io/apps/cardstore/): Free iOS app that keeps loyalty, membership, and store cards in one place.
-- [ISSSeeker](https://csanfilippo.github.io/apps/issseeker/): Free iOS app that tracks the International Space Station's real-time position.
-- [TurinPark](https://csanfilippo.github.io/apps/turinpark/): iOS app that shows real-time available parking spaces in Turin.
-- [WorldSpinner](https://csanfilippo.github.io/apps/worldspinner/): iOS app that suggests random travel destinations with a phone shake (no longer available on the App Store).
+- [CardStore](https://calogerosanfilippo.it/apps/cardstore/): Free iOS app that keeps loyalty, membership, and store cards in one place.
+- [ISSSeeker](https://calogerosanfilippo.it/apps/issseeker/): Free iOS app that tracks the International Space Station's real-time position.
+- [TurinPark](https://calogerosanfilippo.it/apps/turinpark/): iOS app that shows real-time available parking spaces in Turin.
+- [WorldSpinner](https://calogerosanfilippo.it/apps/worldspinner/): iOS app that suggests random travel destinations with a phone shake (no longer available on the App Store).
 
 ## Tools
 
-- [oman-petrol-stations](https://csanfilippo.github.io/tools/oman-petrol-stations/): Swift CLI that fetches petrol station data from the three major chains in Oman and exports it as CSV or KML.
+- [oman-petrol-stations](https://calogerosanfilippo.it/tools/oman-petrol-stations/): Swift CLI that fetches petrol station data from the three major chains in Oman and exports it as CSV or KML.
 
 ## Posts
 
-- [Blog index](https://csanfilippo.github.io/posts/): Release notes and updates for the libraries, apps, and tools above.
+- [Blog index](https://calogerosanfilippo.it/posts/): Release notes and updates for the libraries, apps, and tools above.
 
 ## Optional
 
-- [RSS feed](https://csanfilippo.github.io/index.xml): Full post feed.
+- [RSS feed](https://calogerosanfilippo.it/index.xml): Full post feed.
