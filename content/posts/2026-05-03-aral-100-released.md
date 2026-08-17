@@ -76,7 +76,7 @@ Attributes are currently mapped by local name only. If two attributes from diffe
 ```kotlin
 commonMain {
     dependencies {
-        implementation("it.calogerosanfilippos:aral:1.0.0")
+        implementation("it.calogerosanfilippo:aral:1.0.0")
     }
 }
 ```

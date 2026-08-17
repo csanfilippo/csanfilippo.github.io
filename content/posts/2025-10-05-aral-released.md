@@ -35,7 +35,7 @@ It’s a library shaped by the belief that tools should stay out of the way and 
 ## Learn more
 
 The full documentation, installation instructions, and examples live on [GitHub](https://github.com/csanfilippo/aral).  
-You’ll also find the package published on [Maven Central](https://search.maven.org/artifact/it.calogerosanfilippos/aral).
+You’ll also find the package published on [Maven Central](https://search.maven.org/artifact/it.calogerosanfilippo/aral).
 
 ## Looking ahead
 

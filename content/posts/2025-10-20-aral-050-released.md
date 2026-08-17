@@ -24,7 +24,7 @@ aral is published on Maven Central. To use the latest version:
 ```kotlin
 commonMain {
     dependencies {
-        implementation("it.calogerosanfilippos:aral:0.5.0")
+        implementation("it.calogerosanfilippo:aral:0.5.0")
     }
 }
 ```
