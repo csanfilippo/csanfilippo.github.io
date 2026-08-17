@@ -7,6 +7,13 @@ enableRobotsTXT = true
 [taxonomies]
 tag = "tags"
 
+[[cascade]]
+[cascade.sitemap]
+disable = true
+[cascade.target]
+kind = "term"
+path = "{/tags/altai,/tags/swiftui,/tags/cli,/tags/oman,/tags/open-source,/tags/travel}"
+
 [params]
 author = "Calogero Sanfilippo"
 info = "Software Architect at Gucci"
@@ -28,7 +35,7 @@ url = "about/"
 [[menu.main]]
 name = "Mobile Apps"
 weight = 2
-url  = "app-index/"
+url  = "apps/"
 
 [[menu.main]]
 name = "Posts"
@@ -38,12 +45,12 @@ url  = "posts/"
 [[menu.main]]
 name = "Libs"
 weight = 4
-url  = "libs-index/"
+url  = "libs/"
 
 [[menu.main]]
 name = "Tools"
 weight = 5
-url = "tools-index/"
+url = "tools/"
 
 [[menu.main]]
 name = "CV"
