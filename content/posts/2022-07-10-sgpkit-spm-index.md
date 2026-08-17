@@ -6,7 +6,6 @@ description = "swift-sgp4 is now listed on Swift Package Index, making it discov
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "swift-sgp4", "satellite", "orbital-mechanics", "release"]
 externalLink = ""
-series = []
 slug = "sgpkit-spm-index"
 +++
 [swift-sgp4][swift-sgp] is available through [Swift Package Index][index].

@@ -8,7 +8,6 @@ authors = ["Calogero Sanfilippo"]
 tags = ["swift", "oman", "travel", "cli", "open-source"]
 categories = []
 externalLink = ""
-series = []
 +++
 
 [oman-petrol-stations](https://github.com/csanfilippo/oman-petrol-stations) v1.2.0 is out.

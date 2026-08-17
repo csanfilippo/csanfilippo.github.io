@@ -7,7 +7,6 @@ slug = "cardstore-200-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "swiftui", "apps", "release"]
 externalLink = ""
-series = []
 +++
 
 Version **2.0.0** of CardStore is out on iOS.

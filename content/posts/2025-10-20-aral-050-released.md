@@ -7,7 +7,6 @@ slug = "aral-050-released"
 authors = ["Calogero Sanfilippo"]
 tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
 externalLink = ""
-series = []
 +++
 
 Version **0.5.0** of aral is now available.

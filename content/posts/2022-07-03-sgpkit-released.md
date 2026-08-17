@@ -6,7 +6,6 @@ description = "swift-sgp4 1.0.0: a Swift package for computing satellite positio
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "swift-sgp4", "satellite", "orbital-mechanics", "release"]
 externalLink = ""
-series = []
 slug = "sgpkit-released"
 +++
 

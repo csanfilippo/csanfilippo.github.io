@@ -8,7 +8,6 @@ authors = ["Calogero Sanfilippo"]
 tags = ["swift", "oman", "travel", "cli", "open-source"]
 categories = []
 externalLink = ""
-series = []
 +++
 
 Traveling is one of the things I enjoy the most in my life. Recently I had the chance to visit Oman, a beautiful country with stunning landscapes and rich culture.

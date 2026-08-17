@@ -6,7 +6,6 @@ description = "TurinPark 2.1.3 is out on the App Store, completely rewritten in 
 authors = ["Calogero Sanfilippo"]
 tags = ["swift", "apps", "release"]
 externalLink = ""
-series = []
 slug = "turinpark-213-released"
 +++
 
