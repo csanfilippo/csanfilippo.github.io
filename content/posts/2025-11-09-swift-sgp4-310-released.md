@@ -14,7 +14,7 @@ A new version of SGPKit, **3.1.0**, has been released.
 
 This new minor version introduces the conformance to Codable for the [TLE](https://swiftpackageindex.com/csanfilippo/swift-sgp4/3.1.0/documentation/sgpkit/tle) type. This allows easy serialization and deserialization of TLE objects.
 
-# Encoding
+## Encoding
 
 ```swift
 import SGPKit
@@ -33,7 +33,7 @@ print("Encoded TLE data: \(data)")
 
 ```
 
-# Decoding
+## Decoding
 
 Decoding a single TLE is quite simple.
 
@@ -43,9 +43,9 @@ Decoding a single TLE is quite simple.
 
 To decode a collection of TLEs, the method to call is `decodeCollection(_:)`
 
-Below, you’ll find two example.
+Below, you’ll find two examples.
 
-## Decoding single TLE
+### Decoding single TLE
 
 ```swift
 import SGPKit

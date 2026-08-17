@@ -78,4 +78,4 @@ dependencies: [
 ## Learn more
 
 - Full documentation and usage examples are on [GitHub](https://github.com/csanfilippo/altai)
-- altai is index by [Swift Package Index](https://swiftpackageindex.com/csanfilippo/altai)
+- altai is indexed by [Swift Package Index](https://swiftpackageindex.com/csanfilippo/altai)
