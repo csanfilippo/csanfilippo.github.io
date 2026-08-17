@@ -17,4 +17,4 @@ tags = ["kotlin", "kotlin-multiplatform", "xml", "jvm", "aral", "release"]
 
 ### Links
 - [Release notes](https://github.com/csanfilippo/aral/releases/tag/0.5.1)
-- [Diff 0.5.0 → 0.5.1](https://github.com/csanfilippo/aral/compare/0.5.0...0.5.1
+- [Diff 0.5.0 → 0.5.1](https://github.com/csanfilippo/aral/compare/0.5.0...0.5.1)
