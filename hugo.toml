@@ -3,6 +3,7 @@ locale = 'en-US'
 title = 'Calogero Sanfilippo'
 theme = 'hugo-coder'
 enableRobotsTXT = true
+enableGitInfo = true
 
 [taxonomies]
 tag = "tags"
