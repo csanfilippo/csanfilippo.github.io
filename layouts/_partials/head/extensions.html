@@ -4,7 +4,7 @@
 */}}
 {{ if .IsHome }}
   {{ $sameAs := slice }}
-  {{ range .Site.Params.social }}{{ $sameAs = $sameAs | append .url }}{{ end }}
+  {{ range .Site.Params.social }}{{ if ne .type "application/rss+xml" }}{{ $sameAs = $sameAs | append .url }}{{ end }}{{ end }}
   {{ $person := dict
     "@context" "https://schema.org"
     "@type" "Person"
