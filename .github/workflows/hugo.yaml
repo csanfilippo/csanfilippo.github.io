@@ -1,4 +1,13 @@
 name: Build and deploy
+env:
+  # Define tool versions
+  DART_SASS_VERSION: 1.105.0
+  GO_VERSION: 1.27.1
+  HUGO_VERSION: 0.167.0
+  NODE_VERSION: 24.21.0
+  HUGO_PARAMS_UMAMI_SITEID: ${{ secrets.UMAMI_SITE_ID }}
+  # Set the build time zone
+  TZ: Europe/Oslo
 on:
   push:
     branches:
@@ -17,15 +26,6 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      # Define tool versions
-      DART_SASS_VERSION: 1.102.0
-      GO_VERSION: 1.26.5
-      HUGO_VERSION: 0.165.0
-      NODE_VERSION: 24.19.0
-
-      # Set the build time zone
-      TZ: Europe/Oslo
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -33,6 +33,7 @@ jobs:
           submodules: recursive
           fetch-depth: 0
           lfs: false
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
@@ -43,28 +44,32 @@ jobs:
 
       - name: Install Go
         if: hashFiles('go.mod') != ''
-        uses: actions/setup-go@v6
+        uses: actions/setup-go@v7
         with:
           go-version: ${{ env.GO_VERSION }}
           cache: false
+
       - name: Install Node.js
         if: hashFiles('package-lock.json') != ''
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: ${{ env.NODE_VERSION }}
+
       - name: Install Dart Sass
         run: |
           echo "Installing Dart Sass ${DART_SASS_VERSION}..."
           curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           tar -C "${HOME}/.local" -xf "${{ runner.temp }}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
+
       - name: Install Hugo
         run: |
           echo "Installing Hugo ${HUGO_VERSION}..."
-          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
           mkdir "${HOME}/.local/hugo"
-          tar -C "${HOME}/.local/hugo" -xf "${{ runner.temp }}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          tar -C "${HOME}/.local/hugo" -xf "${{ runner.temp }}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
           echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
+
       - name: Log tool versions
         run: |
           echo "Logging tool versions..."
@@ -72,28 +77,33 @@ jobs:
           command -v go &> /dev/null && echo "Go: $(go version)" || echo "Go: not installed"
           command -v hugo &> /dev/null && echo "Hugo: $(hugo version)" || echo "Hugo: not installed"
           command -v node &> /dev/null && echo "Node.js: $(node --version)" || echo "Node.js: not installed"
+
       - name: Configure Git
         run: |
           echo "Configuring Git..."
           git config --global core.quotepath false
+
       - name: Fetch full Git history
         run: |
           if [[ $(git rev-parse --is-shallow-repository) == true ]]; then
             echo "Fetching full Git history..."
             git fetch --unshallow
           fi
+
       - name: Initialize Git submodules
         run: |
           if [[ -f .gitmodules ]]; then
             echo "Initializing Git submodules..."
             git submodule update --init --recursive
           fi
+
       - name: Install Node.js dependencies
         run: |
           if [[ -f package-lock.json ]]; then
             echo "Installing Node.js dependencies..."
             npm ci
           fi
+
       - name: Cache restore
         id: cache-restore
         uses: actions/cache/restore@v6
@@ -101,10 +111,7 @@ jobs:
           path: ${{ runner.temp }}/.cache/hugo
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
-      - name: Inject Umami site ID
-        uses: ./.github/actions/inject-umami
-        with:
-          site-id: ${{ secrets.UMAMI_SITE_ID }}
+
       - name: Build
         run: |
           echo "Building the project..."
@@ -113,11 +120,13 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
+
       - name: Cache save
         uses: actions/cache/save@v6
         with:
           path: ${{ runner.temp }}/.cache/hugo
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
@@ -133,44 +142,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
-      - name: Submit URLs to IndexNow
-        continue-on-error: true
-        env:
-          SITE_URL: ${{ steps.deployment.outputs.page_url }}
-          INDEXNOW_KEY: 8ee81a805215d0ad184c68b6ce5c0691
-        run: |
-          python3 <<'PY'
-          import json
-          import os
-          import urllib.request
-          import xml.etree.ElementTree as ET
-          from urllib.parse import urlparse
-
-          site_url = os.environ["SITE_URL"].rstrip("/")
-          key = os.environ["INDEXNOW_KEY"]
-          host = urlparse(site_url).netloc
-
-          with urllib.request.urlopen(f"{site_url}/sitemap.xml") as resp:
-              sitemap = resp.read()
-
-          ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
-          root = ET.fromstring(sitemap)
-          urls = [loc.text for loc in root.findall("s:url/s:loc", ns)]
-          print(f"Submitting {len(urls)} URLs to IndexNow for host {host}")
-
-          payload = json.dumps({
-              "host": host,
-              "key": key,
-              "keyLocation": f"https://{host}/{key}.txt",
-              "urlList": urls,
-          }).encode("utf-8")
-
-          req = urllib.request.Request(
-              "https://api.indexnow.org/indexnow",
-              data=payload,
-              headers={"Content-Type": "application/json; charset=utf-8"},
-              method="POST",
-          )
-          with urllib.request.urlopen(req) as resp:
-              print(f"IndexNow response: {resp.status}")
-          PY

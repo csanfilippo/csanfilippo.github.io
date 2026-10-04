@@ -1,0 +1,60 @@
+name: Submit URLs to IndexNow
+on:
+  workflow_run:
+    workflows:
+      - Build and deploy
+    types:
+      - completed
+permissions:
+  pages: read
+jobs:
+  submit:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolve site URL
+        id: site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "url=$(gh api "repos/${{ github.repository }}/pages" --jq .html_url)" >> "${GITHUB_OUTPUT}"
+      - name: Submit URLs to IndexNow
+        env:
+          SITE_URL: ${{ steps.site.outputs.url }}
+          INDEXNOW_KEY: 8ee81a805215d0ad184c68b6ce5c0691
+        run: |
+          python3 <<'PY'
+          import json
+          import os
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from urllib.parse import urlparse
+
+          site_url = os.environ["SITE_URL"].rstrip("/")
+          key = os.environ["INDEXNOW_KEY"]
+          host = urlparse(site_url).netloc
+
+          with urllib.request.urlopen(f"{site_url}/sitemap.xml") as resp:
+              sitemap = resp.read()
+
+          ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+          root = ET.fromstring(sitemap)
+          urls = [loc.text for loc in root.findall("s:url/s:loc", ns)]
+          print(f"Submitting {len(urls)} URLs to IndexNow for host {host}")
+
+          payload = json.dumps({
+              "host": host,
+              "key": key,
+              "keyLocation": f"https://{host}/{key}.txt",
+              "urlList": urls,
+          }).encode("utf-8")
+
+          req = urllib.request.Request(
+              "https://api.indexnow.org/indexnow",
+              data=payload,
+              headers={"Content-Type": "application/json; charset=utf-8"},
+              method="POST",
+          )
+          with urllib.request.urlopen(req) as resp:
+              print(f"IndexNow response: {resp.status}")
+          PY

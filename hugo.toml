@@ -80,7 +80,7 @@ rel = "alternate"
 type = "application/rss+xml"
 
 [params.umami]
-siteID = "<umami-side-id>"
+siteID = ""
 scriptURL = "https://cloud.umami.is/script.js"
 
 [markup.goldmark.renderer]
