@@ -1,4 +1,4 @@
-baseURL = 'https://csanfilippo.github.io/'
+baseURL = 'https://calogerosanfilippo.it/'
 locale = 'en-US'
 title = 'Calogero Sanfilippo'
 theme = 'hugo-coder'
