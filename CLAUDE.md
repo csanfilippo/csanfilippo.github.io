@@ -29,6 +29,13 @@ There are no tests. A clean `hugo build` with no errors or warnings is the verif
 | `static/llms.txt` | Hand-maintained index of the site for LLM agents |
 | `themes/hugo-coder/` | Git submodule — never edit; override in `layouts/` instead |
 
+## Authorship
+
+Calogero writes every post and page. The content is his.
+- Do not write, draft, or rewrite prose unless explicitly asked.
+- Mechanical fixes are fine when requested: typos, broken links, Markdown, front matter.
+- Suggest any change to wording, tone, or claims in a reply. Do not apply it to the file.
+
 ## Content conventions
 
 - Front matter is TOML (`+++`). `title` and `date` are single-quoted strings; `date` carries a timezone offset (`'2026-07-26T10:00:00+02:00'`).
