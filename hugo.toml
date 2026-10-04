@@ -5,6 +5,15 @@ theme = 'hugo-coder'
 enableRobotsTXT = true
 enableGitInfo = true
 
+[outputFormats.llms]
+mediaType = 'text/plain'
+baseName = 'llms'
+isPlainText = true
+notAlternative = true
+
+[outputs]
+home = ['html', 'rss', 'llms']
+
 [taxonomies]
 tag = "tags"
 

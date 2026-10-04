@@ -26,7 +26,7 @@ There are no tests. A clean `hugo build` with no errors or warnings is the verif
 | `content/app-ads.txt` | Served at `/app-ads.txt` for ad networks |
 | `layouts/` | Site-level overrides of the theme (shortcodes, JSON-LD partial, `robots.txt`) |
 | `static/doc/aral/<version>/` | Dokka-generated API docs, committed as build output |
-| `static/llms.txt` | Hand-maintained index of the site for LLM agents |
+| `layouts/home.llms.txt` | Template for `/llms.txt`, the site index for LLM agents, generated from product page front matter |
 | `themes/hugo-coder/` | Git submodule — never edit; override in `layouts/` instead |
 
 ## Authorship
@@ -42,6 +42,7 @@ Calogero writes every post and page. The content is his.
 - Posts: filename `YYYY-MM-DD-<slug>.md`, with `draft`, `title`, `description`, `slug` (filename without the date), `authors = ["Calogero Sanfilippo"]`, and `tags`.
 - Tags are lowercase and hyphenated (`kotlin-multiplatform`). Release posts include `release` plus the product name tag.
 - Product pages use `summary` (not `description`) and follow the same outline: logo, intro, *Why …?*, *The approach*, *Philosophy*, *Learn more*.
+- Product front matter feeds `/llms.txt`: `repository` (libs and tools), `mavenCoordinates` and `apiDocs` (aral), `discontinued = true` (apps removed from the App Store).
 - Library names are lowercase in prose: aral, altai, swift-sgp4.
 - `content/libs/swift-spg4.md` is misspelled but its URL is published and linked externally. Do not rename it without adding an alias.
 - `markup.goldmark.renderer.unsafe = true`: raw HTML in Markdown is allowed.
@@ -59,9 +60,10 @@ When adding or removing an app, library, or tool, update all of:
 1. The product page under its section.
 2. The section `_index.md` `description`, which names every product.
 3. `content/about/index.md` if the product is mentioned there.
-4. `static/llms.txt` — uses absolute `https://calogerosanfilippo.it/` URLs, not the `github.io` base URL.
 
-When publishing a new aral docs version: add `static/doc/aral/<version>/` and update the docs link in `content/libs/aral.md`. Dokka's nested `older/` folders are disallowed in `layouts/robots.txt` to avoid ~1400 duplicate pages being crawled.
+`/llms.txt` follows automatically from the product pages.
+
+When publishing a new aral docs version: add `static/doc/aral/<version>/` and update `apiDocs` in the `content/libs/aral.md` front matter; the page body and `/llms.txt` both read it. Dokka's nested `older/` folders are disallowed in `layouts/robots.txt` to avoid ~1400 duplicate pages being crawled.
 
 When adding a new content section, extend `layouts/_partials/head/extensions.html` so its pages get the right schema.org JSON-LD type.
 

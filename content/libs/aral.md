@@ -3,6 +3,9 @@ date = '2025-10-05T08:24:17+02:00'
 draft = false
 title = 'aral'
 summary = "A multiplatform XML push parser with a lightweight, event-driven design"
+repository = 'https://github.com/csanfilippo/aral'
+mavenCoordinates = 'it.calogerosanfilippo:aral'
+apiDocs = '/doc/aral/1.0/'
 +++
 
 {{< figure-dynamic
@@ -43,7 +46,7 @@ It’s also a project that embraces **clarity and minimalism** — in its API, i
 ## Learn more
 
 - 📖 Installation instructions, and examples are on [GitHub](https://github.com/csanfilippo/aral)
-- Full documentation is [here](/doc/aral/1.0/)
+- Full documentation is [here]({{< param apiDocs >}})
 - 📦 Available on [Maven Central](https://search.maven.org/artifact/it.calogerosanfilippo/aral)
 
 ## Closing note

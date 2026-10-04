@@ -3,6 +3,7 @@ date = '2022-05-05T23:52:10+02:00'
 draft = false
 title = 'swift-sgp4'
 summary = "A Swift package for satellite orbit prediction from TLE data"
+repository = 'https://github.com/csanfilippo/swift-sgp4'
 +++
 
 **swift-sgp4** is a Swift package for computing satellite positions from **[two-line elements (TLE)](https://en.wikipedia.org/wiki/Two-line_element_set)**.  

@@ -3,6 +3,7 @@ date = '2025-09-25T17:38:59+02:00'
 draft = false
 title = 'Worldspinner'
 summary = "WorldSpinner is a free iPhone app that suggests random travel destinations with a phone shake."
+discontinued = true
 +++
 
 **WorldSpinner** is a fun app that helps you discover new places to visit — without leaving your couch.

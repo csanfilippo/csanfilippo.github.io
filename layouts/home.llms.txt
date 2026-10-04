@@ -1,0 +1,41 @@
+# {{ site.Title }}
+
+> Personal website of Calogero Sanfilippo, a software engineer from Italy working as a Software Architect at Gucci. Outside of work he builds open source libraries in Swift and Kotlin and ships small iOS apps.
+
+## About
+
+- [About]({{ (site.GetPage "/about").Permalink }}): Background and bio.
+- [CV]({{ "cv.pdf" | absURL }}): Resume as PDF.
+
+## Libraries
+{{ range $lib := (site.GetPage "/libs").RegularPages.ByTitle }}
+- [{{ $lib.Title }}]({{ $lib.Permalink }}): {{ $lib.Params.summary }}
+{{- with $lib.Params.repository }}
+- [{{ $lib.Title }} source]({{ . }}): Repository with installation instructions and examples.
+{{- with $lib.Params.mavenCoordinates }} Maven coordinates: `{{ . }}`.{{ end }}
+{{- end }}
+{{- with $lib.Params.apiDocs }}
+- [{{ $lib.Title }} API docs]({{ . | absURL }}): API reference.
+{{- end }}
+{{- end }}
+
+## Mobile apps
+{{ range $app := (site.GetPage "/apps").RegularPages.ByTitle }}
+- [{{ $app.Title }}]({{ $app.Permalink }}): {{ $app.Params.summary }}{{ if $app.Params.discontinued }} No longer available on the App Store.{{ end }}
+{{- end }}
+
+## Tools
+{{ range $tool := (site.GetPage "/tools").RegularPages.ByTitle }}
+- [{{ $tool.Title }}]({{ $tool.Permalink }}): {{ $tool.Params.summary }}
+{{- with $tool.Params.repository }}
+- [{{ $tool.Title }} source]({{ . }}): Repository with installation instructions.
+{{- end }}
+{{- end }}
+
+## Posts
+
+- [Blog index]({{ (site.GetPage "/posts").Permalink }}): Release notes and updates for the libraries, apps, and tools above.
+
+## Optional
+
+- [RSS feed]({{ (site.Home.OutputFormats.Get "rss").Permalink }}): Full post feed.

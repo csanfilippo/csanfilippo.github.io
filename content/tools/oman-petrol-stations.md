@@ -4,6 +4,7 @@ draft = false
 title = 'oman-petrol-stations'
 summary = "A Swift CLI for macOS that maps every petrol station in Oman from the three major providers"
 aliases = ["/projects/oman-petrol-stations/"]
+repository = 'https://github.com/csanfilippo/oman-petrol-stations'
 +++
 
 {{< figure-dynamic
