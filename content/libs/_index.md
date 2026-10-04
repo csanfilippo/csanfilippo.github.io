@@ -1,6 +1,6 @@
 +++
 title = 'Libs'
-description = "Open source Swift and Kotlin libraries by Calogero Sanfilippo: aral, altai, and swift-sgp4."
+description = "Open source Swift and Kotlin libraries by Calogero Sanfilippo: aral, altai, sfera, and swift-sgp4."
 aliases = ["/libs-index/"]
 +++
 

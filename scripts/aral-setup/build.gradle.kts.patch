@@ -1,0 +1,22 @@
+# Apply these two additions to aral/build.gradle.kts in the aral repo.
+
+# ── 1. Inside the existing dependencies { } block ─────────────────────────────
+
+    dokkaHtmlPlugin("org.jetbrains.dokka:versioning-plugin")
+
+# ── 2. Add a new dokka { } block (or merge into the existing one) ─────────────
+
+dokka {
+    pluginsConfiguration {
+        versioning {
+            // dokkaVersion can be passed explicitly (-PdokkaVersion=1.0) by the
+            // backfill script. Falls back to deriving from project.version at
+            // release time (e.g. "1.2.3" → "1.2").
+            version = (project.findProperty("dokkaVersion") as? String)
+                ?: project.version.toString().split(".").take(2).joinToString(".")
+            (project.findProperty("dokkaOlderVersionsDir") as? String)?.let {
+                olderVersionsDir = file(it)
+            }
+        }
+    }
+}
