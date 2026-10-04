@@ -68,6 +68,7 @@ When adding a new content section, extend `layouts/_partials/head/extensions.htm
 ## SEO decisions
 
 - Tag pages used by two posts or fewer are excluded from `sitemap.xml` via the `[[cascade]]` path list in `hugo.toml`. When a tag crosses that threshold, add or remove it from the list.
+- `/privacy/` and `/terms/` are excluded from `sitemap.xml` by a second `[[cascade]]` in `hugo.toml`. They exist for App Store review, not search.
 - `enableGitInfo = true` derives `lastmod` from git history, so CI checks out with `fetch-depth: 0`. Shallow clones produce wrong sitemap dates.
 - Old index URLs (`/app-index/`, `/libs-index/`, `/projects/…`) are preserved as `aliases`. Keep them when moving pages.
 
