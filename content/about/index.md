@@ -1,6 +1,6 @@
 +++
 title = 'About'
-description = "Something about me"
+description = "Calogero Sanfilippo is a software engineer from Italy and Software Architect at Gucci, building open source Swift and Kotlin libraries and iOS apps."
 date = '2023-07-28T00:00:00+00:00'
 author = "Calogero Sanfilippo"
 +++
