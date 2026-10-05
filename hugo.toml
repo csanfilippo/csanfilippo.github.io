@@ -85,11 +85,16 @@ icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url = "https://www.linkedin.com/in/calogero-sanfilippo"
 
+[[params.social]]
+name = "Bluesky"
+icon = "fa-brands fa-bluesky fa-2x"
+weight = 3
+url = "https://bsky.app/profile/fripp85.bsky.social"
 
 [[params.social]]
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
-weight = 3
+weight = 4
 url = "https://calogerosanfilippo.it/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
