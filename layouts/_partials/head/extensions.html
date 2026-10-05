@@ -1,40 +1,74 @@
 {{/*
   Structured data (schema.org JSON-LD) so search engines can attribute
   authorship and identify posts/software pages beyond plain meta tags.
+  Every author points at the home page Person by @id, so all pages resolve
+  to a single entity.
 */}}
+{{ $personID := print .Site.BaseURL "#person" }}
+{{ $author := dict "@type" "Person" "@id" $personID "name" .Site.Params.author "url" .Site.BaseURL }}
 {{ if .IsHome }}
   {{ $sameAs := slice }}
   {{ range .Site.Params.social }}{{ if ne .type "application/rss+xml" }}{{ $sameAs = $sameAs | append .url }}{{ end }}{{ end }}
   {{ $person := dict
-    "@context" "https://schema.org"
     "@type" "Person"
+    "@id" $personID
     "name" .Site.Params.author
     "url" .Site.BaseURL
+    "image" (.Site.Params.avatarURL | absURL)
     "jobTitle" .Site.Params.info
+    "knowsAbout" .Site.Params.knowsAbout
     "sameAs" $sameAs
   }}
-  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $person | safeJS }}</script>
-{{ else if eq .Type "posts" }}
+  {{ $website := dict
+    "@type" "WebSite"
+    "@id" (print .Site.BaseURL "#website")
+    "name" .Site.Title
+    "url" .Site.BaseURL
+    "inLanguage" .Site.Language.Locale
+    "author" (dict "@id" $personID)
+  }}
+  {{ $graph := dict "@context" "https://schema.org" "@graph" (slice $person $website) }}
+  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $graph | safeJS }}</script>
+{{ else if and .IsPage (eq .Type "posts") }}
   {{ $post := dict
     "@context" "https://schema.org"
     "@type" "BlogPosting"
     "headline" (.Title | default .Site.Title)
     "description" (.Description | default .Summary)
     "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
     "url" .Permalink
-    "author" (dict "@type" "Person" "name" .Site.Params.author)
+    "mainEntityOfPage" .Permalink
+    "keywords" .Params.tags
+    "author" $author
   }}
   <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $post | safeJS }}</script>
-{{ else if in (slice "apps" "libs" "tools") .Type }}
-  {{ $schemaType := "SoftwareSourceCode" }}
-  {{ if eq .Type "apps" }}{{ $schemaType = "SoftwareApplication" }}{{ end }}
-  {{ $software := dict
+{{ else if and .IsPage (eq .Type "apps") }}
+  {{ $app := dict
     "@context" "https://schema.org"
-    "@type" $schemaType
-    "name" (.Title | default .Site.Title)
-    "description" (.Description | default .Summary)
+    "@type" "SoftwareApplication"
+    "name" .Title
+    "description" .Summary
     "url" .Permalink
-    "author" (dict "@type" "Person" "name" .Site.Params.author)
+    "operatingSystem" "iOS"
+    "applicationCategory" .Params.applicationCategory
+    "author" $author
   }}
-  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $software | safeJS }}</script>
+  {{/* Every app is free; discontinued apps can no longer be obtained, so they carry no offer. */}}
+  {{ if not .Params.discontinued }}
+    {{ $app = merge $app (dict "offers" (dict "@type" "Offer" "price" "0" "priceCurrency" "EUR")) }}
+  {{ end }}
+  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $app | safeJS }}</script>
+{{ else if and .IsPage (in (slice "libs" "tools") .Type) }}
+  {{ $code := dict
+    "@context" "https://schema.org"
+    "@type" "SoftwareSourceCode"
+    "name" .Title
+    "description" .Summary
+    "url" .Permalink
+    "codeRepository" .Params.repository
+    "programmingLanguage" .Params.programmingLanguage
+    "author" $author
+  }}
+  <script type="application/ld+json">{{ jsonify (dict "indent" "  ") $code | safeJS }}</script>
 {{ end }}

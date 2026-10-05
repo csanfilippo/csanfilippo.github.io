@@ -38,6 +38,7 @@ keywords = "blog,developer,personal,iOS,Swift,Kotlin,Kotlin Multiplatform,satell
 colorScheme = "auto"
 since = "2020"
 avatarURL = "images/me.jpeg"
+knowsAbout = ["Software Architecture", "iOS", "Swift", "Kotlin", "Kotlin Multiplatform", "TypeScript"]
 faviconSVG = "images/favicon.svg"
 [caches]
 [caches.images]

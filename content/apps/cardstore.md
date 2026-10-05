@@ -3,6 +3,7 @@ date = '2025-09-25T13:25:15+02:00'
 draft = false
 title = 'CardStore'
 summary = "CardStore is a free iOS app that keeps all your loyalty, membership, and store cards in one place — on your phone, always with you."
+applicationCategory = 'UtilitiesApplication'
 +++
 
 ![CardStoreIcon](/images/cardstore_icon.png)

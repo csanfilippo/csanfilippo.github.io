@@ -6,6 +6,7 @@ summary = "A multiplatform XML push parser with a lightweight, event-driven desi
 repository = 'https://github.com/csanfilippo/aral'
 mavenCoordinates = 'it.calogerosanfilippo:aral'
 apiDocs = '/doc/aral/1.0/'
+programmingLanguage = 'Kotlin'
 +++
 
 {{< figure-dynamic

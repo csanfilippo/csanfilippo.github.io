@@ -3,6 +3,7 @@ date = '2022-05-05T23:52:10+02:00'
 draft = false
 title = 'ISSSeeker'
 summary = "ISSSeeker is a free iOS app that tracks the International Space Station’s real-time position, offering live maps and views of Earth."
+applicationCategory = 'EducationalApplication'
 +++
 
 ![ISSSeekerIcon](/images/issseeker_icon.png)

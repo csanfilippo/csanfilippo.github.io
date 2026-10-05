@@ -4,6 +4,7 @@ draft = false
 title = 'altai'
 summary = "A Swift package that makes typed throws practical by uplifting nested errors into your domain error type"
 repository = 'https://github.com/csanfilippo/altai'
+programmingLanguage = 'Swift'
 +++
 
 {{< figure-dynamic

@@ -43,6 +43,7 @@ Calogero writes every post and page. The content is his.
 - Tags are lowercase and hyphenated (`kotlin-multiplatform`). Release posts include `release` plus the product name tag.
 - Product pages use `summary` (not `description`) and follow the same outline: logo, intro, *Why …?*, *The approach*, *Philosophy*, *Learn more*.
 - Product front matter feeds `/llms.txt`: `repository` (libs and tools), `mavenCoordinates` and `apiDocs` (aral), `discontinued = true` (apps removed from the App Store).
+- Product front matter also feeds JSON-LD: `applicationCategory` (apps, a [Google-supported value](https://developers.google.com/search/docs/appearance/structured-data/software-app) matching the App Store genre) and `programmingLanguage` (libs and tools). Apps are assumed free; a paid app needs the `offers` block in `layouts/_partials/head/extensions.html` changed.
 - Library names are lowercase in prose: aral, altai, swift-sgp4.
 - `content/libs/swift-spg4.md` is misspelled but its URL is published and linked externally. Do not rename it without adding an alias.
 - `markup.goldmark.renderer.unsafe = true`: raw HTML in Markdown is allowed.
