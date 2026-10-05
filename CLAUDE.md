@@ -53,7 +53,7 @@ Calogero writes every post and page. The content is his.
 - `{{< appStoreBadge "<app-name>/id<number>" >}}` — App Store badge linking to the Italian storefront.
 - `{{< figure-dynamic light-src=… dark-src=… alt=… width=… >}}` — image that swaps with `prefers-color-scheme`. Used for library logos.
 
-Images live in `static/images/` and are referenced with absolute paths (`/images/…`).
+Images live in `static/images/` and are referenced with absolute paths (`/images/…`). Hugo does not process files in `static/`, so resize images before committing them to twice their display size: 400 px for the avatar, 700 px wide for logos (`sips --resampleWidth 700 <file>`).
 
 ## Things that must stay in sync
 
