@@ -22,7 +22,7 @@ tag = "tags"
 disable = true
 [cascade.target]
 kind = "term"
-path = "{/tags/altai,/tags/swiftui,/tags/cli,/tags/oman,/tags/open-source,/tags/travel}"
+path = "{/tags/altai,/tags/swiftui,/tags/cli,/tags/oman,/tags/open-source,/tags/travel,/tags/sfera,/tags/geojson}"
 
 [[cascade]]
 [cascade.sitemap]
@@ -33,7 +33,7 @@ path = "{/privacy,/privacy/**,/terms,/terms/**}"
 [params]
 author = "Calogero Sanfilippo"
 info = "Software Architect at Gucci"
-description = "Software Architect at Gucci. Open source Swift and Kotlin Multiplatform libraries (aral, swift-sgp4, altai) and iOS apps like ISSSeeker and TurinPark."
+description = "Software Architect at Gucci. Open source Swift and Kotlin Multiplatform libraries (aral, swift-sgp4, altai, sfera) and iOS apps like ISSSeeker and TurinPark."
 colorScheme = "auto"
 since = "2020"
 avatarURL = "images/me.jpeg"
