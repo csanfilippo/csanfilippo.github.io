@@ -3,6 +3,8 @@ date = '2026-10-06T00:30:00+02:00'
 draft = false
 title = 'sfera'
 summary = "A Swift library for parsing, building, and encoding GeoJSON, valid by construction"
+repository = 'https://github.com/csanfilippo/sfera'
+programmingLanguage = 'Swift'
 +++
 
 {{< figure-dynamic
