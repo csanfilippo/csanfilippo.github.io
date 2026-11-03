@@ -1,6 +1,6 @@
 +++
-date = '2026-11-03T07:30:00+01:00'
-draft = true
+date = '2026-11-03T16:40:00+01:00'
+draft = false
 title = 'oxus'
 summary = "An MCP server that exposes macOS Spotlight search to MCP clients over stdio"
 repository = 'https://github.com/csanfilippo/oxus'

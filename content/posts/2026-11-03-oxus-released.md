@@ -1,6 +1,6 @@
 +++
-date = '2026-11-03T08:00:00+01:00'
-draft = true
+date = '2026-11-03T16:40:00+01:00'
+draft = false
 title = 'oxus: Spotlight search for MCP clients, built test-first with Claude'
 description = "oxus: a Swift MCP server that exposes macOS Spotlight search to MCP clients, built increment by increment with TDD and Claude as a pair"
 slug = "oxus-released"
