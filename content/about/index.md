@@ -11,4 +11,6 @@ Outside of work I build open source software, mostly in Swift and Kotlin. On the
 
 I also publish a few iOS apps — [ISSSeeker](/apps/issseeker) tracks the International Space Station in real time, [TurinPark](/apps/turinpark) helps find parking in Turin, and [CardStore](/apps/cardstore) stores loyalty card barcodes on your phone.
 
+And I build small tools: [oxus](/tools/oxus/), an MCP server that brings macOS Spotlight search to AI agents, and [oman-petrol-stations](/tools/oman-petrol-stations/), a CLI that maps every petrol station in Oman.
+
 My CV is available as a [PDF](/cv.pdf).

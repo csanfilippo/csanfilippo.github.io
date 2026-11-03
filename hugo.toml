@@ -22,7 +22,7 @@ tag = "tags"
 disable = true
 [cascade.target]
 kind = "term"
-path = "{/tags/altai,/tags/swiftui,/tags/cli,/tags/oman,/tags/open-source,/tags/travel,/tags/sfera,/tags/geojson}"
+path = "{/tags/altai,/tags/swiftui,/tags/cli,/tags/oman,/tags/open-source,/tags/travel,/tags/sfera,/tags/geojson,/tags/oxus,/tags/mcp}"
 
 [[cascade]]
 [cascade.sitemap]
