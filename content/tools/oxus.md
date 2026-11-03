@@ -1,5 +1,6 @@
 +++
 date = '2026-11-03T16:40:00+01:00'
+images = ['/images/oxus-social-preview.png']
 draft = false
 title = 'oxus'
 summary = "An MCP server that exposes macOS Spotlight search to MCP clients over stdio"
