@@ -6,7 +6,7 @@ title = 'oxus: Spotlight search for MCP clients, built test-first with Claude'
 description = "oxus: a Swift MCP server that exposes macOS Spotlight search to MCP clients, built increment by increment with TDD and Claude as a pair"
 slug = "oxus-released"
 authors = ["Calogero Sanfilippo"]
-tags = ["swift", "oxus", "mcp", "release"]
+tags = ["swift", "oxus", "mcp", "macos", "release"]
 toc = true
 +++
 
